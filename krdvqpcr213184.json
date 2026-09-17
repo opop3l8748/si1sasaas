@@ -1,0 +1,4509 @@
+{
+  "catalog": {
+    "name": "内地餐饮企业在港竞争激烈 2026年市场持续洗牌 海底捞、凑凑折戟 巴奴前扑后继",
+    "owner": "王照",
+    "generated": "2026-09-18 02:41:41"
+  },
+  "endpoints": [
+    {
+      "name": "大宗商品综述：油价回落 而中东风险阴云不散 铜价企稳 金价涨",
+      "method": "GET",
+      "url": "<code> 253905.po1ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+      "method": "POST",
+      "url": "<code> 875051.po2ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+      "method": "GET",
+      "url": "<code> 14391.po3ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华银基金新任总经理落定：刘丹履新，华夏银行系高管再落一子",
+      "method": "POST",
+      "url": "<code> 07335.po4ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "公募打新燧原科技浮盈丰厚",
+      "method": "GET",
+      "url": "<code> 0534.po5ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+      "method": "POST",
+      "url": "<code> 5779.po6ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "罗博特科通过港交所上市聆讯",
+      "method": "GET",
+      "url": "<code> 3884.po7ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "工业和信息化部总工程师钟志红：加快算力标准体系建设指南编制",
+      "method": "POST",
+      "url": "<code> 6165.po8ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "椰油胺商品报价动态（2026-09-12）",
+      "method": "GET",
+      "url": "<code> 6160.po9ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美联储面临巨大加息压力 沃什到了必须“拿出行动的”时候",
+      "method": "POST",
+      "url": "<code> 80099.po10ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "欲冲击IPO！造船巨头启动上市辅导",
+      "method": "GET",
+      "url": "<code> 19328.po11ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗总统：目前无法做出与美国直接谈判的决定 美国必须停止封锁",
+      "method": "POST",
+      "url": "<code> 84718.po12ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "method": "GET",
+      "url": "<code> 37607.po13ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "上海旅游节大巡游开幕 世赛主题联动花车登场",
+      "method": "POST",
+      "url": "<code> 2131.po14ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华夏基金：华夏创业板算力基础设施ETF9月17日起开放日常申赎业务",
+      "method": "GET",
+      "url": "<code> 3353.po15ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "三家具身智能头部企业被同行举报？涉及企业回应",
+      "method": "POST",
+      "url": "<code> 2113.po16ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年广州房博会开幕 上百个优质楼盘集中亮相",
+      "method": "GET",
+      "url": "<code> 610784.po17ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "花牌藏港韵 “乡愁”续初心——专访香港花牌扎作师傅蔡荣基",
+      "method": "POST",
+      "url": "<code> 8840.po18ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习言道｜开启金砖合作第三个“金色十年”",
+      "method": "GET",
+      "url": "<code> 8288.po19ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "绥芬河口岸深耕“双买双卖”做强跨境贸易新业态",
+      "method": "POST",
+      "url": "<code> 7166.po20ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
+      "method": "GET",
+      "url": "<code> 050019.po21ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "胡塞武装控制曼德海峡全球能源风险持续上升",
+      "method": "POST",
+      "url": "<code> 79391.po22ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "多项技术需求在浦江创新论坛发布 揭榜资金规模达6240万元",
+      "method": "GET",
+      "url": "<code> 80928.po23ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "联合国南南合作日纪念活动在杭州举行",
+      "method": "POST",
+      "url": "<code> 49248.po24ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "AI时代科技投资：从普涨到分化，资产怎么配？",
+      "method": "GET",
+      "url": "<code> 014194.po25ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "案值巨大 美中情局前官员达成临时认罪协议",
+      "method": "POST",
+      "url": "<code> 529491.po26ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国限制油轮通过霍尔木兹海峡的防空时段",
+      "method": "GET",
+      "url": "<code> 79346.po27ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "花旗：中国铁建目标价下调至5.5港元 维持“买入”评级",
+      "method": "POST",
+      "url": "<code> 9936.po28ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "这个周末！AI交易，利空突袭",
+      "method": "GET",
+      "url": "<code> 8493.po29ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "情绪冰点，A股单周成交额创年内新低！有色领跌，创新药不振！关注华宝基金创业板人工智能ETF",
+      "method": "POST",
+      "url": "<code> 952480.po30ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+      "method": "GET",
+      "url": "<code> 9873.po31ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "工程院院士邬江兴：VLEO超低轨是地球空间最后战略新资源层",
+      "method": "POST",
+      "url": "<code> 9863.po32ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋",
+      "method": "GET",
+      "url": "<code> 78679.po33ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+      "method": "POST",
+      "url": "<code> 126554.po34ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“超级央行周”来了 下周美日英集体议息：美联储加息概率飙至90% 日本时隔3个月或再加息",
+      "method": "GET",
+      "url": "<code> 22851.po35ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "周末！原油暗盘，跳水",
+      "method": "POST",
+      "url": "<code> 134985.po36ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广西首个“用机器人造机器人”工厂投产",
+      "method": "GET",
+      "url": "<code> 05564.po37ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "花旗集团预计美联储将在9月加息 并在2027年中期之前降息",
+      "method": "POST",
+      "url": "<code> 534642.po38ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+      "method": "GET",
+      "url": "<code> 33386.po39ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "六省区携手共建“天空地”一体化监测网络护青藏高原生态",
+      "method": "POST",
+      "url": "<code> 70736.po40ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "支付宝，紧急回应",
+      "method": "GET",
+      "url": "<code> 9929.po41ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "兴蓉环境：董事会换届选举工作尚在筹备中 将适当延期",
+      "method": "POST",
+      "url": "<code> 2171.po42ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "科学健身融入大众传播：全民增肌操亮相《披荆斩棘2026》",
+      "method": "GET",
+      "url": "<code> 22303.po43ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "粤桂协作消费帮扶系列推介展示活动在广州启动",
+      "method": "POST",
+      "url": "<code> 160755.po44ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "一波未平一波又起，星宇股份实在是“错得离谱”",
+      "method": "GET",
+      "url": "<code> 821052.po45ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国服贸向上跃升 体验经济蓬勃发展",
+      "method": "POST",
+      "url": "<code> 37686.po46ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "私募8月业绩修复 头部梯队表现抢眼",
+      "method": "GET",
+      "url": "<code> 4894.po47ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+      "method": "POST",
+      "url": "<code> 02783.po48ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "method": "GET",
+      "url": "<code> 98912.po49ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米",
+      "method": "POST",
+      "url": "<code> 041929.po50ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "阿斯利康美股盘后下跌2%",
+      "method": "GET",
+      "url": "<code> gzfxha.hhpo1ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "锅炉阻垢剂商品报价动态（2026-09-12）",
+      "method": "POST",
+      "url": "<code> jsrgh.hhpo2ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "星宇股份年报写出2.44万亿外包费：一个“万”字，差了多远？",
+      "method": "GET",
+      "url": "<code> htaj.hhpo3ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全球基金看淡印度股市 部分机构将持仓降至零",
+      "method": "POST",
+      "url": "<code> fxmjf.hhpo4ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "厦门大学政治学科创建百年：聚力构建中国政治学自主知识体系",
+      "method": "GET",
+      "url": "<code> zfflr.hhpo5ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高盛科技大会收官：巨头齐声看好AI 黄仁勋称供应链上下游均面临挑战",
+      "method": "POST",
+      "url": "<code> ecafyx.hhpo6ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国最有钱的几大公司，突然拼命借钱：阿里配股，腾讯发债，字节贷款296亿美元",
+      "method": "GET",
+      "url": "<code> ekozlu.hhpo7ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "北京丰台发布文化产业新政 聚焦数字出版创新等六大方向",
+      "method": "POST",
+      "url": "<code> uivdlw.hhpo8ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+      "method": "GET",
+      "url": "<code> pkaih.hhpo9ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+      "method": "POST",
+      "url": "<code> ibho.hhpo10ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国原油期货结算价为每桶100.05美元",
+      "method": "GET",
+      "url": "<code> xdoanl.hhpo11ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "泉州肖厝口岸“白色石油”锂辉石进口创历史新高",
+      "method": "POST",
+      "url": "<code> uslxjz.hhpo12ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "（活力中国调研行）河南遂平：农机制造企业生产忙",
+      "method": "GET",
+      "url": "<code> wssd.hhpo13ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+      "method": "POST",
+      "url": "<code> xlve.hhpo14ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“铁建起重5000”大型起重船离港赴远洋施工",
+      "method": "GET",
+      "url": "<code> xnpvqa.hhpo15ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中俄垂钓大赛“以渔会友”促进文体交流",
+      "method": "POST",
+      "url": "<code> mhwvkw.hhpo16ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第23届东博会“魅力之城”全数出炉",
+      "method": "GET",
+      "url": "<code> whhox.hhpo17ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“站在光里”的光博会：1.6T光模块还在导入 6.4T的NPO又要来了",
+      "method": "POST",
+      "url": "<code> qtbbgf.hhpo18ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华为Mate XT 2非凡大师全渠道开售",
+      "method": "GET",
+      "url": "<code> hkki.hhpo19ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高校进入楼市“团购” 存量商品房变身大学宿舍 多地发文支持高校收储",
+      "method": "POST",
+      "url": "<code> btxz.hhpo20ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "青海省公布24年生态数据：生态系统服务价值超3.2万亿",
+      "method": "GET",
+      "url": "<code> hafcv.hhpo21ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "千叶珠宝的陨落",
+      "method": "POST",
+      "url": "<code> vhsj.hhpo22ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+      "method": "GET",
+      "url": "<code> ybrvv.hhpo23ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "算力词元贷加速全国推广",
+      "method": "POST",
+      "url": "<code> ndlny.hhpo24ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "航行警告：渤海海峡黄海北部执行军事任务 禁止驶入",
+      "method": "GET",
+      "url": "<code> evmk.hhpo25ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "ROE倒挂、外包费2.44万亿：星宇股份四个月四连错，信披检验到底在哪道关失灵",
+      "method": "POST",
+      "url": "<code> jfkhty.hhpo26ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "山西繁峙：884名跑者滹沱河畔竞速 体育帮扶赋能县域发展",
+      "method": "GET",
+      "url": "<code> ojfbw.hhpo27ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "今年上半年广州边检总站所辖口岸入境外国人超191万人次",
+      "method": "POST",
+      "url": "<code> mgfu.hhpo28ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "冯骥才文学与文化遗产保护国际学术研讨会在天津大学召开 系列新书首发",
+      "method": "GET",
+      "url": "<code> tgelin.hhpo29ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位",
+      "method": "POST",
+      "url": "<code> ltuu.hhpo30ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国实现算力一体化统筹监测",
+      "method": "GET",
+      "url": "<code> ayhhw.hhpo31ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "黑龙江大学中共党史党建研究院揭牌",
+      "method": "GET",
+      "url": "<code> cuaugi.hhpo32ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "真“神话”！太乙圣莲“复活”哪吒汽车",
+      "method": "POST",
+      "url": "<code> dihplw.hhpo33ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "瞄准中秋、国庆黄金档期多地发放消费券",
+      "method": "POST",
+      "url": "<code> riwnwo.hhpo34ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+      "method": "GET",
+      "url": "<code> mqwc.hhpo35ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
+      "method": "POST",
+      "url": "<code> zgziid.hhpo36ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习近平：中方愿同金砖成员一道 为实现中东海湾地区和平安宁发挥应有作用",
+      "method": "POST",
+      "url": "<code> czkgeu.hhpo37ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "（乡村行·看振兴）广东黄塘镇：榴莲蜜薯铺就富民路",
+      "method": "POST",
+      "url": "<code> dimi.hhpo38ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大龙舟选手上海挥桨逐浪 “洋面孔”爱上“交朋友的运动”",
+      "method": "GET",
+      "url": "<code> bbnv.hhpo39ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "拉里·埃里森撤销甲骨文股票出售计划",
+      "method": "GET",
+      "url": "<code> gmvfh.hhpo40ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特阿拉伯输油管道系统周四遭袭击",
+      "method": "POST",
+      "url": "<code> bgvbi.hhpo41ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+      "method": "POST",
+      "url": "<code> kzod.hhpo42ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "腾讯控股于9月11日斥资1亿港元回购23.5万股",
+      "method": "POST",
+      "url": "<code> ignt.hhpo43ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+      "method": "POST",
+      "url": "<code> afxbuy.hhpo44ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+      "method": "GET",
+      "url": "<code> traern.hhpo45ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "百家号App将更名“百度直播伴侣”",
+      "method": "POST",
+      "url": "<code> pqoax.hhpo46ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼失联客轮已有约110人获救",
+      "method": "GET",
+      "url": "<code> sxhw.hhpo47ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026 IRONMAN 70.3云南大理站开赛",
+      "method": "POST",
+      "url": "<code> puponi.hhpo48ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "星宇股份风波全记录：从暴力劝退到年报连环出错，一家上市公司为何屡踩红线？",
+      "method": "POST",
+      "url": "<code> dnwyck.hhpo49ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特东西输油管道遇袭 伊拉克谴责袭击并启动调查",
+      "method": "POST",
+      "url": "<code> pdybj.hhpo50ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中信证券：静待加息落地 配置上建议维持AI+能化的结构",
+      "method": "GET",
+      "url": "<code> bpwwd.po1ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+      "method": "POST",
+      "url": "<code> wcfvky.po2ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沪市主板公司纷纷披露回购增持进展",
+      "method": "POST",
+      "url": "<code> olxmu.po3ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "向同行“开炮”！梅卡曼德CEO发文称有具身智能企业“攒局” 制造虚假收入",
+      "method": "POST",
+      "url": "<code> cyqi.po4ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "报告：北京、上海、深圳位列亚太经合组织智慧城市排名前五",
+      "method": "GET",
+      "url": "<code> idwbza.po5ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "300名选手逐浪沙湖 宁夏铁人三项公开赛鸣枪开赛",
+      "method": "POST",
+      "url": "<code> ahqln.po6ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+      "method": "GET",
+      "url": "<code> uqttx.po7ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第四届绿色牧场公众开放日举行 聚焦绿色种养循环创新发展",
+      "method": "GET",
+      "url": "<code> fapxr.po8ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+      "method": "GET",
+      "url": "<code> adaz.po9ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+      "method": "GET",
+      "url": "<code> gtrha.po10ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "周末，大反转！利空突袭，SK海力士、美光、闪迪，集体大跌",
+      "method": "GET",
+      "url": "<code> cerds.po11ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "method": "GET",
+      "url": "<code> pecc.po12ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "企业出海不能“裸奔” 法律服务智能体亮相服贸会",
+      "method": "POST",
+      "url": "<code> iguyg.po13ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "Rapidus拟考虑2040年前后在月球建设半导体工厂",
+      "method": "GET",
+      "url": "<code> pqtve.po14ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年粤港澳大湾区攀岩公开赛（深圳）举行",
+      "method": "GET",
+      "url": "<code> dwsxb.po15ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "辞去两家上市药企董事长职务 “太太口服液”创始人朱保国退休",
+      "method": "GET",
+      "url": "<code> olal.po16ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大称与美国尚无贸易谈判安排",
+      "method": "GET",
+      "url": "<code> kxoqn.po17ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "雄安国际算力一体化调度中心启动运行",
+      "method": "POST",
+      "url": "<code> baczq.po18ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "绿植黄叶，罚款50——星宇股份最狠的不是裁员，是让员工互相开罚单",
+      "method": "GET",
+      "url": "<code> nalvnu.po19ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "菲律宾客船起火事故已致76人死亡",
+      "method": "POST",
+      "url": "<code> ohrx.po20ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "前8月安徽省船舶工业实现总产值213亿元 同比增长33%",
+      "method": "GET",
+      "url": "<code> utwabr.po21ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "深圳国际：完成发行2026年中期票据(第四期)",
+      "method": "POST",
+      "url": "<code> fhai.po22ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+      "method": "GET",
+      "url": "<code> gxnlp.po23ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "600929，重大资产重组，股票提前涨停！万亿级行业新利好，高增长潜力股浮出水面",
+      "method": "GET",
+      "url": "<code> swfo.po24ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "陈发树，拟减持301050",
+      "method": "POST",
+      "url": "<code> nokc.po25ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "世界最大盐穴压缩空气储能项目机组启动",
+      "method": "POST",
+      "url": "<code> gfga.po26ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国银行启动“一网三融”算力金融生态共建行动",
+      "method": "GET",
+      "url": "<code> wgdlc.po27ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国内地单跨跨径最大的双层钢桁梁桥实现合龙",
+      "method": "GET",
+      "url": "<code> yuukyt.po28ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "创新药跌跌不休，什么原因？华宝基金港股通创新药ETF（520880）失守所有均线",
+      "method": "POST",
+      "url": "<code> ktzpd.po29ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高德扫街榜发布“飞行街景2.0”：ABot-Earth 0.7世界模型驱动，提前自由探索目的地",
+      "method": "GET",
+      "url": "<code> phak.po30ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“AI+建筑”驱动房地产谋新求变",
+      "method": "GET",
+      "url": "<code> zqvxc.po31ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
+      "method": "POST",
+      "url": "<code> wpcek.po32ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从单机突围到集群拓局 上合示范区小农机耕拓印度大市场",
+      "method": "GET",
+      "url": "<code> uzgjc.po33ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "四川成都：民众沉浸式体验天文艺术展",
+      "method": "POST",
+      "url": "<code> wtio.po34ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "肇庆搭建“认知健康防护网” 为老年认知障碍防治提供数字化支撑",
+      "method": "POST",
+      "url": "<code> hksu.po35ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
+      "method": "GET",
+      "url": "<code> kyxi.po36ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
+      "method": "GET",
+      "url": "<code> pabigs.po37ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中金：通胀粘性支持加息 预计美联储加息25个基点",
+      "method": "POST",
+      "url": "<code> ngyk.po38ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "纽约尾盘 现货黄金涨0.68%",
+      "method": "GET",
+      "url": "<code> kkbnf.po39ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "雕白粉商品报价动态（2026-09-12）",
+      "method": "POST",
+      "url": "<code> lgll.po40ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华储网：9月16日中央储备冻猪肉轮换出库挂牌国产冻猪肉12900吨",
+      "method": "GET",
+      "url": "<code> uufem.po41ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "质量督察首次启动 揭开“三无”灯具与建材监管盲区",
+      "method": "POST",
+      "url": "<code> ylnnb.po42ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“我们的节日·共话团圆”港澳台侨同胞联谊活动在宁夏银川举办",
+      "method": "GET",
+      "url": "<code> zsems.po43ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "特朗普连续3天许诺5000美元分红：若共和党赢下中选 每位年轻人发钱",
+      "method": "GET",
+      "url": "<code> lfayln.po44ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "哔哩哔哩-W获UBS Group AG增持约759.24万股 每股作价约116.51港元",
+      "method": "GET",
+      "url": "<code> ohfa.po45ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "资本大佬陈发树要减持，对应市值超2亿元",
+      "method": "GET",
+      "url": "<code> oliod.po46ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
+      "method": "POST",
+      "url": "<code> tznlu.po47ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "异物卡喉、心搏骤停如何急救？这些要点请牢记",
+      "method": "GET",
+      "url": "<code> fwihx.po48ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "恒指期货夜盘收跌0.05%",
+      "method": "POST",
+      "url": "<code> fqzxs.po49ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "韩国延长交易时长，测试全球投资者的参与意愿",
+      "method": "POST",
+      "url": "<code> acvtfq.po50ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+      "method": "POST",
+      "url": "<code> m.xbio.hhpo1ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特称也门胡塞武装袭击造成2人受伤",
+      "method": "POST",
+      "url": "<code> m.ubemq.hhpo2ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "method": "GET",
+      "url": "<code> m.glyi.hhpo3ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "光模块龙头：产能目标已实现！迎近百家机构调研",
+      "method": "GET",
+      "url": "<code> m.vubphi.hhpo4ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南海热带扰动将发展为热带低压 海南岛等地雨势较强",
+      "method": "GET",
+      "url": "<code> m.ewhj.hhpo5ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加息25个基点？美联储重磅来袭！高盛最新研判",
+      "method": "GET",
+      "url": "<code> m.abni.hhpo6ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国股市：标普500指数终结四连跌 市场准备迎接美联储决策",
+      "method": "POST",
+      "url": "<code> m.fgnwij.hhpo7ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "在服贸会看AI点亮“教与学”新场景",
+      "method": "GET",
+      "url": "<code> m.ibej.hhpo8ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全球首座翼龙博物馆在新疆哈密开馆",
+      "method": "GET",
+      "url": "<code> m.xblehm.hhpo9ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "小米高管称部分门店高峰时段客流量暴涨400%",
+      "method": "GET",
+      "url": "<code> m.scxt.hhpo10ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+      "method": "GET",
+      "url": "<code> m.vudiuh.hhpo11ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "湖南举办五彩湘茶斗茶大会 打造全民茶文化IP赛事",
+      "method": "POST",
+      "url": "<code> m.dmjsg.hhpo12ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "长青股份：近年来看 气象影响对农药行业整体拉动效果不显著",
+      "method": "POST",
+      "url": "<code> m.fbok.hhpo13ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国团队完成三维粘性挂谷猜想形式化验证",
+      "method": "GET",
+      "url": "<code> m.qzmfv.hhpo14ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年黄河上中游重点水库联合排沙调度今天启动",
+      "method": "POST",
+      "url": "<code> m.yzkiuo.hhpo15ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "国务院国资委：统筹用好国内国际两个市场 优化海外投资布局",
+      "method": "POST",
+      "url": "<code> m.micmv.hhpo16ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "厘清车企账期不妨多些刚性约束",
+      "method": "GET",
+      "url": "<code> m.bmzccn.hhpo17ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+      "method": "POST",
+      "url": "<code> m.dkng.hhpo18ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "9月12日热门中概股多数上涨，台积电涨1.22%，慧荣科技涨7.25%",
+      "method": "POST",
+      "url": "<code> m.bevlr.hhpo19ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+      "method": "GET",
+      "url": "<code> m.ntqep.hhpo20ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗南部格什姆岛方向传出爆炸声",
+      "method": "POST",
+      "url": "<code> m.zynu.hhpo21ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "上海“明珠星座计划”启动 全栈国产化打造吉瓦级天基计算星座",
+      "method": "GET",
+      "url": "<code> m.wafh.hhpo22ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "索要数百克黄金！打假网红“铁头”被判8年，宣判现场有人叫嚣“不服”，曾对商户放言“你是我的金山银山”",
+      "method": "GET",
+      "url": "<code> m.ifjmug.hhpo23ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "世界酱香白酒核心产区仁怀推介活动亮相酒博会 以酒为媒共促酱酒高质量发展",
+      "method": "POST",
+      "url": "<code> m.nggrze.hhpo24ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "康宁达成最高20亿美元的股权配售协议",
+      "method": "GET",
+      "url": "<code> m.obtd.hhpo25ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+      "method": "POST",
+      "url": "<code> m.nlai.hhpo26ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第十届北京王府井国际品牌节启幕 上演“时空蒙太奇”",
+      "method": "GET",
+      "url": "<code> m.amym.hhpo27ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "文具消费回归实用属性",
+      "method": "GET",
+      "url": "<code> m.mblxi.hhpo28ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "method": "GET",
+      "url": "<code> m.odiulc.hhpo29ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "method": "GET",
+      "url": "<code> m.lpymc.hhpo30ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从“加不加息”到“加几次” 美联储加息预期急剧升温",
+      "method": "GET",
+      "url": "<code> m.bhlo.hhpo31ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "险资借道私募基金加码投资战略性新兴产业",
+      "method": "GET",
+      "url": "<code> m.eswuh.hhpo32ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "算力服务加速涌现 成为今年服贸会亮点",
+      "method": "GET",
+      "url": "<code> m.rbthz.hhpo33ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英前官员称英脱欧后经济跌落悬崖",
+      "method": "GET",
+      "url": "<code> m.avoasj.hhpo34ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼载有至少240人的客轮失联，已派出救援人员",
+      "method": "GET",
+      "url": "<code> m.karjo.hhpo35ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "重庆渝富控股集团原董事长谢文辉被查，曾掌舵这家万亿级农商行",
+      "method": "GET",
+      "url": "<code> m.qdud.hhpo36ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）“鸡汤银镯情”见证乌蒙山乡巨变",
+      "method": "POST",
+      "url": "<code> m.mstd.hhpo37ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特东西输油管道遭袭后预防性关闭",
+      "method": "POST",
+      "url": "<code> m.pcytz.hhpo38ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "据报道 美国商务部长卢特尼克表示美国可尝试“赚取”资金用于发放5000美元支票 不会依赖税收资金",
+      "method": "POST",
+      "url": "<code> m.xcgnum.hhpo39ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026广东旅博会收官 实现交易额突破8000万元",
+      "method": "GET",
+      "url": "<code> m.ztbyp.hhpo40ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
+      "method": "POST",
+      "url": "<code> m.cbuov.hhpo41ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "闽超联赛：福州队主场1比2不敌厦门队",
+      "method": "GET",
+      "url": "<code> m.uyyi.hhpo42ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+      "method": "POST",
+      "url": "<code> m.lqkemx.hhpo43ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "特朗普连续3天许诺5000美元分红",
+      "method": "GET",
+      "url": "<code> m.iuai.hhpo44ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美众议院议长约翰逊称 特朗普的5000美元支票计划需要国会批准",
+      "method": "POST",
+      "url": "<code> m.bxzq.hhpo45ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "安理会通过决议 对苏丹制裁授权进行一个月的技术性延期",
+      "method": "POST",
+      "url": "<code> m.hffkmo.hhpo46ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "暴雨红色预警 海南陵水发布校外培训机构停课通知",
+      "method": "GET",
+      "url": "<code> m.tqvib.hhpo47ker.org.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "提前开栓 我国最北城市进入供暖季",
+      "method": "POST",
+      "url": "<code> m.mglra.hhpo48ker.org.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "北京立法促进民族团结进步 以首善标准建设示范城市",
+      "method": "GET",
+      "url": "<code> m.szfatc.hhpo49ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "兴业合金授出1600万股奖励股份",
+      "method": "GET",
+      "url": "<code> m.jnntg.hhpo50ker.org.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英伟达被曝拟出资100亿美元参与Anthropic首次公开募股",
+      "method": "POST",
+      "url": "<code> m.lmwdo.po1ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "method": "GET",
+      "url": "<code> m.xjafa.po2ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼失联客轮确认倾覆 百余人仍下落不明",
+      "method": "POST",
+      "url": "<code> m.ureds.po3ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+      "method": "POST",
+      "url": "<code> m.cwudr.po4ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“炒股”回本！爆仓漫画家，苦熬18年，他做对了什么？",
+      "method": "POST",
+      "url": "<code> m.byzpzg.po5ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国算力基础设施与人工智能服务能力加快走向东盟",
+      "method": "POST",
+      "url": "<code> m.lqwtp.po6ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "马斯克表示 Anthropic CEO达里奥关于放慢人工智能模型发展速度的呼吁是正确的",
+      "method": "GET",
+      "url": "<code> m.cbhvr.po7ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印度央行驳回塔塔之子注销申请，上市要求再度明确",
+      "method": "GET",
+      "url": "<code> m.dkcleq.po8ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中东局势，突传大消息",
+      "method": "POST",
+      "url": "<code> m.sdwa.po9ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "关键时刻能救命！正确拨打120+心肺复苏+AED操作，一文讲清 | 世界急救日",
+      "method": "POST",
+      "url": "<code> m.ovxmq.po10ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“琮谱”特展杭州启幕 展出124件（组）琮及琮式器",
+      "method": "GET",
+      "url": "<code> m.ofacfn.po11ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+      "method": "POST",
+      "url": "<code> m.fdpw.po12ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "漓江画派展出百余幅精品力作 献礼平陆运河通航",
+      "method": "GET",
+      "url": "<code> m.hdmbf.po13ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "青花汾20、国窖1573小幅回弹 洋河梦之蓝M6+、青花郎重跌",
+      "method": "GET",
+      "url": "<code> m.eqbgzj.po14ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "method": "GET",
+      "url": "<code> m.pqtfl.po15ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "四年虚增利润近3亿元！688121，或遭强制退市",
+      "method": "GET",
+      "url": "<code> m.flknj.po16ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中央财经大学绿色金融国际研究院2026年会举办",
+      "method": "GET",
+      "url": "<code> m.ifpxla.po17ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "突然，直线大跳水！美伊，局势突变！国际油价，大跌",
+      "method": "GET",
+      "url": "<code> m.yzkih.po18ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "秋燥分两种，很多人都补反了，越补燥感越重！",
+      "method": "GET",
+      "url": "<code> m.gdqyfq.po19ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗与海湾国家拟开会讨论霍尔木兹海峡航运安全",
+      "method": "GET",
+      "url": "<code> m.efzf.po20ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“桂BA”总决赛在桂林落幕",
+      "method": "GET",
+      "url": "<code> m.uddqcv.po21ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国官员：以色列与黎巴嫩下一轮谈判推迟至10月",
+      "method": "GET",
+      "url": "<code> m.gdmc.po22ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国8月份政府预算赤字为1668亿美元",
+      "method": "GET",
+      "url": "<code> m.zali.po23ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+      "method": "POST",
+      "url": "<code> m.wpdojg.po24ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "B7-H3靶点ADC全球率先突破 世界肺癌大会迎来中国时刻",
+      "method": "GET",
+      "url": "<code> m.xtggg.po25ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "欧洲股市周五反弹 仍创下7月份以来最差单周表现",
+      "method": "POST",
+      "url": "<code> m.nkdjak.po26ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国建筑国际遭执行董事孔祥兆减持9万股 每股作价8.54港元",
+      "method": "POST",
+      "url": "<code> m.bhucw.po27ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+      "method": "POST",
+      "url": "<code> m.ygzz.po28ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“男子称停止资助遭女生威胁”事件反转，姚某某已涉嫌寻衅滋事罪丨法律顾问在身边",
+      "method": "GET",
+      "url": "<code> m.nlcfnl.po29ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "海南岛遭遇大范围强降雨 应急响应升级",
+      "method": "POST",
+      "url": "<code> m.isbgq.po30ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "证监会严肃查处*ST卓然严重财务造假案件 上交所依法启动退市程序",
+      "method": "GET",
+      "url": "<code> m.fplm.po31ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大据报寻求成为欧盟“联系成员”，拟推动关键领域深度整合",
+      "method": "GET",
+      "url": "<code> m.eulx.po32ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+      "method": "GET",
+      "url": "<code> m.hsweya.po33ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+      "method": "GET",
+      "url": "<code> m.ozba.po34ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "被指滥用控股股东控制权伪造签名转移3.58亿元资产，ST东时被子公司股东起诉索赔1.19亿元",
+      "method": "POST",
+      "url": "<code> m.uoxdnu.po35ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体",
+      "method": "POST",
+      "url": "<code> m.iwihvx.po36ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "洪汇新材：公司将于2026年9月29日召开2026年第二次临时股东会",
+      "method": "POST",
+      "url": "<code> m.ewif.po37ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "国内外专家学者齐聚广州 共话羽毛球足球运动科学",
+      "method": "GET",
+      "url": "<code> m.hget.po38ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "OpenAI“去英伟达化”首个试验品退役 模型行业进入快速淘汰期",
+      "method": "POST",
+      "url": "<code> m.xlxq.po39ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "西安建筑科技大学办学130年并校70周年高质量发展大会举行",
+      "method": "GET",
+      "url": "<code> m.lvfwjz.po40ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从赛场走向市场 南京新消费环境促“商文旅农融合”提速",
+      "method": "POST",
+      "url": "<code> m.sdxj.po41ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "1-羟基-2-萘甲酸商品报价动态（2026-09-12）",
+      "method": "POST",
+      "url": "<code> m.vpbd.po42ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "星宇股份再爆第三雷：产业园九成员工是临时工",
+      "method": "GET",
+      "url": "<code> m.xbcgg.po43ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "密集召开多场会议！超20万亿元投向这里",
+      "method": "GET",
+      "url": "<code> m.xcne.po44ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "保时捷青岛女销冠暂居“全球第一” 但欧美豪车在中国卖不动了：保时捷4年销量腰斩 BBA上半年少卖20万台",
+      "method": "POST",
+      "url": "<code> m.ygmr.po45ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "九三学社社员的卢旺达之行：送技术出去，带需求回来",
+      "method": "GET",
+      "url": "<code> m.wqkyod.po46ker.cn </code>",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从备孕到产后：科学营养如何守护生命早期健康？",
+      "method": "POST",
+      "url": "<code> m.wjmy.po47ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英国议会否决“安乐死”合法化法案",
+      "method": "GET",
+      "url": "<code> m.kehkc.po48ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+      "method": "POST",
+      "url": "<code> m.hwhpm.po49ker.cn </code>",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
+      "method": "GET",
+      "url": "<code> m.xwjq.po50ker.cn </code>",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
