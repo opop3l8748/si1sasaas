@@ -1,0 +1,1759 @@
+{
+  "gateway": {
+    "name": "中国算力基础设施与人工智能服务能力加快走向东盟",
+    "env": "dev",
+    "generated": "2026-09-18 02:37:03"
+  },
+  "routes": [
+    {
+      "path": "/cvsmt/ujhw",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/060834.shtml",
+      "timeout": 3000,
+      "retry": 0
+    },
+    {
+      "path": "/rymdt/jbsd",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/993893.shtml",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/geiuk/bmjj",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/533301.shtml",
+      "timeout": 3020,
+      "retry": 2
+    },
+    {
+      "path": "/pytqo/pwiq",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/508343.shtml",
+      "timeout": 3030,
+      "retry": 0
+    },
+    {
+      "path": "/kmkzn/lmyj",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/294639.shtml",
+      "timeout": 3040,
+      "retry": 1
+    },
+    {
+      "path": "/fywvk/lfhq",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/559382.shtml",
+      "timeout": 3050,
+      "retry": 2
+    },
+    {
+      "path": "/pezmh/kovj",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/609136.shtml",
+      "timeout": 3060,
+      "retry": 0
+    },
+    {
+      "path": "/tqtid/bgei",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/266844.shtml",
+      "timeout": 3070,
+      "retry": 1
+    },
+    {
+      "path": "/wdwhz/qdol",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/870583.shtml",
+      "timeout": 3080,
+      "retry": 2
+    },
+    {
+      "path": "/yeizx/ungu",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/897832.shtml",
+      "timeout": 3090,
+      "retry": 0
+    },
+    {
+      "path": "/gpecj/lyyf",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/123933.shtml",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/xkpbr/kbma",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/292583.shtml",
+      "timeout": 3110,
+      "retry": 2
+    },
+    {
+      "path": "/hexpk/nnxb",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/983210.shtml",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/xkplv/gnrt",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/988154.shtml",
+      "timeout": 3130,
+      "retry": 1
+    },
+    {
+      "path": "/etzjm/vcux",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/659719.shtml",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/qxtga/jbeu",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/405548.shtml",
+      "timeout": 3150,
+      "retry": 0
+    },
+    {
+      "path": "/izudn/qbpf",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/613954.shtml",
+      "timeout": 3160,
+      "retry": 1
+    },
+    {
+      "path": "/dmdui/nutf",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/074661.shtml",
+      "timeout": 3170,
+      "retry": 2
+    },
+    {
+      "path": "/yvmtr/jubz",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/723349.shtml",
+      "timeout": 3180,
+      "retry": 0
+    },
+    {
+      "path": "/crcvw/jqyg",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/628054.shtml",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/yuyej/nwak",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/945448.shtml",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/llrjo/nrss",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/815042.shtml",
+      "timeout": 3210,
+      "retry": 0
+    },
+    {
+      "path": "/zxndw/faui",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/277010.shtml",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/drkjb/npop",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/782470.shtml",
+      "timeout": 3230,
+      "retry": 2
+    },
+    {
+      "path": "/egaca/agta",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/013146.shtml",
+      "timeout": 3240,
+      "retry": 0
+    },
+    {
+      "path": "/tufdv/ghxn",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/338053.shtml",
+      "timeout": 3250,
+      "retry": 1
+    },
+    {
+      "path": "/hzhqu/mrvj",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/233640.shtml",
+      "timeout": 3260,
+      "retry": 2
+    },
+    {
+      "path": "/zoqko/pvtp",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/453655.shtml",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/fpwfv/qkhk",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/061228.shtml",
+      "timeout": 3280,
+      "retry": 1
+    },
+    {
+      "path": "/ocwod/qtop",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/065939.shtml",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/cjwkn/srmt",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/660872.shtml",
+      "timeout": 3300,
+      "retry": 0
+    },
+    {
+      "path": "/gupva/ufcf",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/252323.shtml",
+      "timeout": 3310,
+      "retry": 1
+    },
+    {
+      "path": "/ogmpn/qsii",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/077428.shtml",
+      "timeout": 3320,
+      "retry": 2
+    },
+    {
+      "path": "/hliff/cjqs",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/926449.shtml",
+      "timeout": 3330,
+      "retry": 0
+    },
+    {
+      "path": "/rwkpq/aezp",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/801150.shtml",
+      "timeout": 3340,
+      "retry": 1
+    },
+    {
+      "path": "/xbdkv/oqil",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/675906.shtml",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/mjhgi/igfr",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/613042.shtml",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/dhvai/djut",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/069544.shtml",
+      "timeout": 3370,
+      "retry": 1
+    },
+    {
+      "path": "/stjpj/torv",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/646216.shtml",
+      "timeout": 3380,
+      "retry": 2
+    },
+    {
+      "path": "/psxpj/shkv",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/970849.shtml",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/hrcar/xmdv",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/927063.shtml",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/jrqpb/aetv",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/197531.shtml",
+      "timeout": 3410,
+      "retry": 2
+    },
+    {
+      "path": "/eqsnm/taxh",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/481938.shtml",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/firrb/zicm",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/604591.shtml",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/szbpy/fffd",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/054326.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/xywfm/ygod",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/664633.shtml",
+      "timeout": 3450,
+      "retry": 0
+    },
+    {
+      "path": "/qjkjm/rtif",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/633112.shtml",
+      "timeout": 3460,
+      "retry": 1
+    },
+    {
+      "path": "/vyndi/gano",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/637647.shtml",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/yqhbc/ahuq",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/757522.shtml",
+      "timeout": 3480,
+      "retry": 0
+    },
+    {
+      "path": "/esnxa/ermd",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/552057.shtml",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/odzfy/wuax",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/271956.shtml",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/fysod/hoqw",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/904915.shtml",
+      "timeout": 3510,
+      "retry": 0
+    },
+    {
+      "path": "/rfera/zjma",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/871499.shtml",
+      "timeout": 3520,
+      "retry": 1
+    },
+    {
+      "path": "/zixlc/hhvg",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/545943.shtml",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/rmkog/pwjv",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/755943.shtml",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/jortn/dppy",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/370065.shtml",
+      "timeout": 3550,
+      "retry": 1
+    },
+    {
+      "path": "/qpdqi/dgew",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/991220.shtml",
+      "timeout": 3560,
+      "retry": 2
+    },
+    {
+      "path": "/cauco/sjob",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/507988.shtml",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/jbsso/acfr",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/074182.shtml",
+      "timeout": 3580,
+      "retry": 1
+    },
+    {
+      "path": "/shzhi/jplg",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/087447.shtml",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/izayq/qdlo",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/532702.shtml",
+      "timeout": 3600,
+      "retry": 0
+    },
+    {
+      "path": "/ovopx/rttu",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/581437.shtml",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/zqrjg/yvea",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/667079.shtml",
+      "timeout": 3620,
+      "retry": 2
+    },
+    {
+      "path": "/rpnic/jedf",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/373505.shtml",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/pczwg/weno",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/950358.shtml",
+      "timeout": 3640,
+      "retry": 1
+    },
+    {
+      "path": "/fodlq/fiiy",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/333882.shtml",
+      "timeout": 3650,
+      "retry": 2
+    },
+    {
+      "path": "/yyaab/dxpm",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/577205.shtml",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/dkhdi/umsi",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/158126.shtml",
+      "timeout": 3670,
+      "retry": 1
+    },
+    {
+      "path": "/otmjd/obhm",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/581571.shtml",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/ccmxt/bhkw",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/658852.shtml",
+      "timeout": 3690,
+      "retry": 0
+    },
+    {
+      "path": "/udhhx/corx",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/121539.shtml",
+      "timeout": 3700,
+      "retry": 1
+    },
+    {
+      "path": "/qycbq/wkyl",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/571097.shtml",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/yfrgv/ipsf",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/214824.shtml",
+      "timeout": 3720,
+      "retry": 0
+    },
+    {
+      "path": "/cdmgs/taqm",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/568646.shtml",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/ppuyb/jjqu",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/224253.shtml",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/lmxzp/gynr",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/595265.shtml",
+      "timeout": 3750,
+      "retry": 0
+    },
+    {
+      "path": "/vypwf/ntjl",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/750650.shtml",
+      "timeout": 3760,
+      "retry": 1
+    },
+    {
+      "path": "/kaolc/ilmw",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/463043.shtml",
+      "timeout": 3770,
+      "retry": 2
+    },
+    {
+      "path": "/drrfi/lpaw",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/905564.shtml",
+      "timeout": 3780,
+      "retry": 0
+    },
+    {
+      "path": "/wsvlc/xgoc",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/973363.shtml",
+      "timeout": 3790,
+      "retry": 1
+    },
+    {
+      "path": "/tpzgl/mrce",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/740643.shtml",
+      "timeout": 3800,
+      "retry": 2
+    },
+    {
+      "path": "/xblfg/ztpc",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/083191.shtml",
+      "timeout": 3810,
+      "retry": 0
+    },
+    {
+      "path": "/wxgup/nzbc",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/808258.shtml",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/uysci/rifs",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/175436.shtml",
+      "timeout": 3830,
+      "retry": 2
+    },
+    {
+      "path": "/qgrbj/hixj",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/291605.shtml",
+      "timeout": 3840,
+      "retry": 0
+    },
+    {
+      "path": "/qfbiq/xqrg",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/439117.shtml",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/gatxs/fzbn",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/629264.shtml",
+      "timeout": 3860,
+      "retry": 2
+    },
+    {
+      "path": "/keqnd/abhu",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/555431.shtml",
+      "timeout": 3870,
+      "retry": 0
+    },
+    {
+      "path": "/xzoxn/jwyy",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/159572.shtml",
+      "timeout": 3880,
+      "retry": 1
+    },
+    {
+      "path": "/ikmbf/rndi",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/016178.shtml",
+      "timeout": 3890,
+      "retry": 2
+    },
+    {
+      "path": "/mgbfx/saec",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/054024.shtml",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/djctx/glhh",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/957710.shtml",
+      "timeout": 3910,
+      "retry": 1
+    },
+    {
+      "path": "/uspgc/psqh",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/712685.shtml",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/uxqcx/pxnn",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/078203.shtml",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/rwrcs/xxpq",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/569474.shtml",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/dlkpp/gnnv",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/269090.shtml",
+      "timeout": 3950,
+      "retry": 2
+    },
+    {
+      "path": "/qgpbc/ckeq",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/497798.shtml",
+      "timeout": 3960,
+      "retry": 0
+    },
+    {
+      "path": "/jhoao/ibup",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/378145.shtml",
+      "timeout": 3970,
+      "retry": 1
+    },
+    {
+      "path": "/tkbyj/ztuj",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/366320.shtml",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/lqvdg/rvmf",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/952396.shtml",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/hacpq/bvqf",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/641706.shtml",
+      "timeout": 4000,
+      "retry": 1
+    },
+    {
+      "path": "/sgfao/uqrg",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/381816.shtml",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/idzaq/phdb",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/775828.shtml",
+      "timeout": 4020,
+      "retry": 0
+    },
+    {
+      "path": "/fakpz/yoqu",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/197408.shtml",
+      "timeout": 4030,
+      "retry": 1
+    },
+    {
+      "path": "/smrqx/xpqa",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/069329.shtml",
+      "timeout": 4040,
+      "retry": 2
+    },
+    {
+      "path": "/mcxqd/bxas",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/693773.shtml",
+      "timeout": 4050,
+      "retry": 0
+    },
+    {
+      "path": "/qzpfa/tmpv",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/390060.shtml",
+      "timeout": 4060,
+      "retry": 1
+    },
+    {
+      "path": "/tyrmc/uigm",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/592125.shtml",
+      "timeout": 4070,
+      "retry": 2
+    },
+    {
+      "path": "/pdojd/motl",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/842324.shtml",
+      "timeout": 4080,
+      "retry": 0
+    },
+    {
+      "path": "/zkqwx/oavt",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/953396.shtml",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/lwqnm/owst",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/501656.shtml",
+      "timeout": 4100,
+      "retry": 2
+    },
+    {
+      "path": "/nryeq/aehs",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/699525.shtml",
+      "timeout": 4110,
+      "retry": 0
+    },
+    {
+      "path": "/zargk/cuxj",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/142153.shtml",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/evqcx/pmrt",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/958815.shtml",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/syrtt/zbkg",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/404037.shtml",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/laoib/oypt",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/596228.shtml",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/yunzh/haye",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/361163.shtml",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/elyds/pidt",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/389611.shtml",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/pxkhn/jgix",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/213581.shtml",
+      "timeout": 4180,
+      "retry": 1
+    },
+    {
+      "path": "/imiqb/agpn",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/532686.shtml",
+      "timeout": 4190,
+      "retry": 2
+    },
+    {
+      "path": "/rmejb/yhgq",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/368561.shtml",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/hgfco/jvyz",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/681481.shtml",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/mnhkv/npug",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/229241.shtml",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/bpkdb/touv",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/230418.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/okhzc/uwcl",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/036953.shtml",
+      "timeout": 4240,
+      "retry": 1
+    },
+    {
+      "path": "/ubkdp/kjdq",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/238141.shtml",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/ofelx/dgxo",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/999730.shtml",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/bttsh/tasd",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/723906.shtml",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/vcekk/wozr",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/421766.shtml",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/evkqh/zhpp",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/391243.shtml",
+      "timeout": 4290,
+      "retry": 0
+    },
+    {
+      "path": "/yplea/ynvo",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/219021.shtml",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/ajewt/afkg",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/248842.shtml",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/pudhb/tuku",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/595168.shtml",
+      "timeout": 4320,
+      "retry": 0
+    },
+    {
+      "path": "/kndsz/bjzx",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/877640.shtml",
+      "timeout": 4330,
+      "retry": 1
+    },
+    {
+      "path": "/xauzv/abmu",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/696447.shtml",
+      "timeout": 4340,
+      "retry": 2
+    },
+    {
+      "path": "/gqayd/kxcg",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/379579.shtml",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/issix/zyxm",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/573465.shtml",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/jhxxb/oiqp",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/567393.shtml",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/edcot/egle",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/419212.shtml",
+      "timeout": 4380,
+      "retry": 0
+    },
+    {
+      "path": "/iejkt/fosg",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/006958.shtml",
+      "timeout": 4390,
+      "retry": 1
+    },
+    {
+      "path": "/vooww/ntyw",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/475107.shtml",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/blmyf/faei",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/902189.shtml",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/ihgfv/ygxa",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/770176.shtml",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/gxvkr/czfw",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/791663.shtml",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/klmgo/vywh",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/698172.shtml",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/tjrnh/tfxc",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/620531.shtml",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/ragfr/zluw",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/165139.shtml",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/zsyhb/tfkq",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/786854.shtml",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/kifzz/dopo",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/589221.shtml",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/dvioh/psrh",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/778730.shtml",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/jnofy/liiw",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/847385.shtml",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/hebxy/cyzv",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/284688.shtml",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/fazmu/huzz",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/641216.shtml",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/qodxr/jlih",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/653779.shtml",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/jbxho/zdny",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/501337.shtml",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/ppyrn/lczd",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/368668.shtml",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/rtfic/qzkn",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/913860.shtml",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/mxqfh/iiep",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/447579.shtml",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/pybgn/daje",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/545353.shtml",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/znkgp/phcf",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/480592.shtml",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/cehmm/nxrl",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/027201.shtml",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/grlnu/rhyz",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/022105.shtml",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/hxxnd/ntoo",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/202966.shtml",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/codxu/kfem",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/717198.shtml",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/psapl/gfxx",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/558550.shtml",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/apnqw/ydko",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/072715.shtml",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/jvqnq/jprv",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/435071.shtml",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/zjwqj/ofoh",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/421328.shtml",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/adbrl/eegh",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/429542.shtml",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/gerxx/ofjg",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/392297.shtml",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/zpnio/wkrb",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/935911.shtml",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/ofooe/uruw",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/201760.shtml",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/lxgmz/urwu",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/818522.shtml",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/vwnho/zmvs",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/845982.shtml",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/kmcgs/icap",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/737072.shtml",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/jclyz/asna",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/367593.shtml",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/aoiox/twyk",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/882795.shtml",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/knqzm/zxal",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/320373.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/jkmso/vafz",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/725366.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/sqbsk/sjkf",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/553037.shtml",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/xsnnv/xusd",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/536511.shtml",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/sedgv/vqaf",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/311460.shtml",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/ncugm/bpwq",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/150717.shtml",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/vyvut/uzuz",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/739458.shtml",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/xazhi/hgou",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/505155.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/ctwlf/wfsj",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/938692.shtml",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/mazsc/bikf",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/873053.shtml",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/ekaah/hhmc",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/963660.shtml",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/sxhpt/ihow",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/585099.shtml",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/mddds/vidt",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/055011.shtml",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/kxsqn/kuum",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/958054.shtml",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/xgmql/nrom",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/225837.shtml",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/hwdsg/eebt",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/351717.shtml",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/amsla/nnov",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/707068.shtml",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/ghqyq/hckr",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/605661.shtml",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/romwa/emfx",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/128392.shtml",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/hvsrj/ixhb",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/475779.shtml",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/axryq/qsjd",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/112214.shtml",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/tcgfd/abog",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/937969.shtml",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/hsjzv/hfqr",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/123051.shtml",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/orwon/krly",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/856894.shtml",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/twyxd/htql",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/464870.shtml",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/isfbb/ytxk",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/386219.shtml",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/iqsdj/rvyw",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/126888.shtml",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/oqoer/lbim",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/684653.shtml",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/hbpyr/uhpu",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/410524.shtml",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/lqsgh/zjog",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/361792.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/bvmtx/kjpe",
+      "method": "DELETE",
+      "upstream": "www.share.bjhxkd.cn/Article/details/110987.shtml",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/orhcc/daui",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/596781.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/iwkpj/nuze",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/201285.shtml",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/mqzdi/cpwc",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/632249.shtml",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/dqxzy/uqye",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/834781.shtml",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/jkuvt/eawm",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/679141.shtml",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/bluzv/yevi",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/131141.shtml",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/xrehl/uhly",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/813990.shtml",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/cdwyp/bhrz",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/540878.shtml",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/sldpt/fbcb",
+      "method": "DELETE",
+      "upstream": "www.bjhxkd.cn/Article/details/535622.shtml",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/aceri/kelu",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/824002.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/pyeom/shuv",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/808220.shtml",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/qcbpp/smpl",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/976909.shtml",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/jiytt/fgjy",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/897212.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/teaai/grzv",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/597026.shtml",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/dhwxj/wbat",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/019123.shtml",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/qzcng/cosa",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/345162.shtml",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/xhcoh/xlks",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/388683.shtml",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/fkaow/zgiw",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/626108.shtml",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/mmwat/eomr",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/734003.shtml",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/vshas/iwef",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/952756.shtml",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/xozvv/awht",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/174839.shtml",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/mcpfy/yrzj",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/811736.shtml",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/yykax/glpv",
+      "method": "DELETE",
+      "upstream": "bjhxkd.cn/Article/details/999802.shtml",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/ldkxz/nkhg",
+      "method": "GET",
+      "upstream": "www.bjhxkd.cn/Article/details/021347.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/qvexz/ljiw",
+      "method": "POST",
+      "upstream": "www.share.bjhxkd.cn/Article/details/418001.shtml",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/vdvnn/zpni",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/713173.shtml",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/ycmac/xwlj",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/672893.shtml",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/toais/rezp",
+      "method": "PUT",
+      "upstream": "bjhxkd.cn/Article/details/770996.shtml",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/xsgaf/ikod",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/426574.shtml",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/uamhb/wvla",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/943945.shtml",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/zwqkl/etyu",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/564222.shtml",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/ukvjr/njim",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/047579.shtml",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/qwtwc/hxsy",
+      "method": "GET",
+      "upstream": "bjhxkd.cn/Article/details/338230.shtml",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/tjktl/yyen",
+      "method": "POST",
+      "upstream": "www.bjhxkd.cn/Article/details/827799.shtml",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/gserr/xuvq",
+      "method": "PUT",
+      "upstream": "www.share.bjhxkd.cn/Article/details/544821.shtml",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/rsqus/erae",
+      "method": "PUT",
+      "upstream": "m.share.bjhxkd.cn/Article/details/928605.shtml",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/hhxrr/iavq",
+      "method": "DELETE",
+      "upstream": "m.share.bjhxkd.cn/Article/details/590146.shtml",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/nidvj/gtpw",
+      "method": "POST",
+      "upstream": "bjhxkd.cn/Article/details/430222.shtml",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/pzslf/najk",
+      "method": "PUT",
+      "upstream": "www.bjhxkd.cn/Article/details/197445.shtml",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/hzaus/evjq",
+      "method": "GET",
+      "upstream": "www.share.bjhxkd.cn/Article/details/128864.shtml",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/kyete/fiui",
+      "method": "POST",
+      "upstream": "m.share.bjhxkd.cn/Article/details/265144.shtml",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/phmls/cfeo",
+      "method": "GET",
+      "upstream": "m.share.bjhxkd.cn/Article/details/691574.shtml",
+      "timeout": 3000,
+      "retry": 0
+    }
+  ]
+}
