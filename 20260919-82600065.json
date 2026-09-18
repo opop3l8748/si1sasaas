@@ -1,0 +1,2510 @@
+{
+  "spec": {
+    "name": "德企在华薪资报告：哪些行业涨钱快？",
+    "version": "1.0",
+    "owner": "阿济格",
+    "generated": "2026-09-19 01:05:16"
+  },
+  "rules": [
+    {
+      "name": "（经济观察）中国金融业界稳步推进跨境服务",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a923.v5n8wd.cn/75576db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "5000人晋阳湖畔开跑 2026太马欢乐趣跑举行",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a889.2i6e5p.cn/84938db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "公募逆周期布局提速 机构称A股变盘点或已不远",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a80.a33i9m.cn/31769db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "夜盘期货收盘",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a960.v14uvk.cn/58713db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "东鹏饮料获董事长林木勤三日增持5.79万股 耗资约594.03万港元",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a5388.947n1r.cn/48334db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "一粒小树籽，竟能缓解失眠！这个小村庄找到了睡眠“解药”",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a011169.5c982y.cn/22942db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a641016.r2s81h.cn/76112db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026年服贸会闭幕",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a15434.rjq60j.cn/69657db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a49.lntkj1.cn/67764db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "南航将正式复航广州-新德里直飞航线",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a988.2nx1lb.cn/09051db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "这个周末！AI交易，利空突袭",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a9010.rh6d3v.cn/42878db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a440.ctic8n.cn/06576db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "原油：布伦特自四个月高位回落 中东风险阴云不散",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a900.uudv1i.cn/62422db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "为构建人类命运共同体贡献“大金砖”力量",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a752.zz6vf9.cn/67321db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "LME期铜收涨6美元 报14240美元/吨",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a01.fls2ok.cn/39518db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "人民论坛网评 | 以青春担当回应时代召唤",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a73982.0z73f3.cn/78428db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "20%涨停效应显现？公募调研医药挖出这三家双创标的",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a631.ldri1e.cn/06559db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国“村钓”开赛 钓友相聚宁夏贺兰竞逐渔乐",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a15.32qjbp.cn/96266db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "埃里森取消出售至多5000万股甲骨文股票的计划",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a117927.x3f1dx.cn/47361db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a935.tt8xz8.cn/69676db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "霹雳舞3V3混合团体世锦赛首金成都诞生 中国选手包揽冠亚军",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a591.d3sjl9.cn/05037db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a1915.wu55v2.cn/15454db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "广西隆安优品亮相深圳华强北 产销对接拓展湾区市场",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a56755.1syv8t.cn/41261db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "恺英网络：拟间接参股韩国公司Wemade 整体预估出资2.98亿美元",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a706883.k3f3vj.cn/24319db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "英国超2000架次航班突然被取消 英媒：一军机输入虚假飞行数据所致",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a373.8rag0o.cn/11392db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a60.t87af9.cn/66183db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "香港西九文化区上演纪念张国荣无人机汇演",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a313946.3uqfij.cn/70030db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "南北共链“芯”动沈阳 第二届北方芯谷生态伙伴大会启幕",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a36.x7100w.cn/93600db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "广西南宁青秀山凤凰岭如意步道改建完成 新增城市登高观景点",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a547.j3cx9b.cn/24955db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "花旗集团预计美联储将在9月加息 并在2027年中期之前降息",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a8565.wqv98g.cn/74250db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a10.iv6b0n.cn/20170db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "SK集团会长崔泰源呼吁努力构建AI可持续商业模式",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a17.2yctbi.cn/75481db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "AI是一场文明跃迁，大模型只是序幕，能源是终极约束",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a10.14ln82.cn/40385db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "36.9万起！特斯拉推出Model Y高性能版",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a03019.e7phmo.cn/54732db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a237738.s3ii19.cn/43822db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "B7-H3靶点ADC全球率先突破 世界肺癌大会迎来中国时刻",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a7825.uzlgg0.cn/94350db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "印尼失联客轮确认倾覆 百余人仍下落不明",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a7731.627hl5.cn/18401db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "金安国纪：未与英伟达、华为有过接触",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a47264.w7vl1r.cn/41938db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“我们的节日·共话团圆”港澳台侨同胞联谊活动在宁夏银川举办",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a51228.ub2o39.cn/19308db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "标普预计2027年沙特石油产量将上升 但产量仍将远低于其报告的最高可行产能1230万桶/日",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a0828.30a0tn.cn/29294db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "沙特能源部表示 利雅得和麦地那地区的东西输油管道在周四遭数次袭击后已被暂时关闭",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a2051.8tvof4.cn/79915db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "立足港澳实践 学者探讨“两制”台湾方案制度设计及有效治理",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a64.52k1x3.cn/08731db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "自然资源部：临时用地管理文件修订面向社会公开征求意见",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a47.n1ifoi.cn/56552db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "哈马斯下属卡桑旅证实：高级成员被以军打死",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a360414.pcy4rc.cn/03656db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "加息25个基点？美联储重磅来袭！高盛最新研判",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a90234.p5fn6g.cn/28187db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "李家超：发表香港第一个五年规划时将佩戴相关主题领带与襟章",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a653744.d4rrb9.cn/26748db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a59426.o4vhom.cn/03006db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "建设提速 宁盐高速高邮湖特大桥实现全桥贯通",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a06584.xjurj7.cn/28804db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "IPO或被人为操纵，拨康视云暂停交易",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a55225.480o4r.cn/22487db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Citrini创始人出售公司并筹划新基金 此前其报告曾震动市场",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a8407.5neodi.cn/03603db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "国际油价暗盘大跌，布油跌破100美元，美联储年内可能不只加息一次",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a56.8d6wcs.cn/53320db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "黄山晴日风光旖旎 东大门通道持续走热",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a672124.z88es6.cn/46527db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "波音向工程师工会提交最终提案 包含10%加薪",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a996.5fx4eo.cn/46048db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "西藏扎什伦布寺举行“羌姆”活动",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a9453.xuzkh8.cn/29750db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "富智康集团获董事会主席黄英士增持5万股 每股作价16.50港元",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a174487.9ykeu9.cn/40038db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026贵阳国际网球公开赛：舒布拉泽获得女单冠军",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a29518.2gt120.cn/68506db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "高校购商品房当学生宿舍：空调、洗衣机齐全，双人间一年1320元",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a7569.rq0v2m.cn/82523db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "产学研协同赋能西北城市更新 第十一届西安城市更新大会举行",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a3715.j1oixk.cn/77360db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "深夜，全线跳水！AI芯片，重大变数！后市怎么走？最新解读来了",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a260554.7ag0lw.cn/40129db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "（长征胜利90周年）探访贵州习水四渡赤水纪念馆",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a0544.tzwj94.cn/91781db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "《2026中国餐饮业年度报告》发布",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a64887.mtivu5.cn/98690db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "沐曦股份下周解禁68亿，机构大幅浮盈，会否重演摩尔线程解禁日表现？",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a20.fjjiuu1.cn/78932db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "从赛场走向市场 南京新消费环境促“商文旅农融合”提速",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a08787.vetzdu9.cn/64516db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "国家认监委责令中汽认证中心有限公司停业整顿1个月",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a7805.ibrahl9.cn/65526db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "兴蓉环境：董事会换届选举工作尚在筹备中 将适当延期",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a519753.xigrer4.cn/40705db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "南宁海关保障平陆运河首批外贸货物顺利通关",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a782938.vrkhcw6.cn/10174db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "福建漳州举办台胞台属迎中秋、庆国庆活动",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a20713.wqpitd1.cn/69580db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "波音与工程师工会据悉达成暂定合同协议",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a061872.sxscvj9.cn/41121db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "粤BA明星赛举行 NBA球星库里现身赛场",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a101789.lgnkcj7.cn/32734db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a28598.ljppve8.cn/77938db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a199977.qpmdub1.cn/73827db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "想关广告却被反复跳转 手机里的“退出键”去哪了？",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a914555.fyefpp0.cn/54785db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "NBA球星斯蒂芬·库里到访广东东莞助阵粤BA全明星赛",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a74133.shstsp1.cn/26559db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "（活力中国调研行）河南确山：“提琴之乡”赶制订单忙",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a62.9brzfj.cn/68212db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "当“科漂”遇见江淮，一场关于未来的双向奔赴",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a429.ougwk8.cn/50074db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "今年前8个月 深圳对其他金砖成员国进出口同比增长11.5%",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a99057.98x815.cn/32185db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "真“神话”！太乙圣莲“复活”哪吒汽车",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a25.v12dr0.cn/52621db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a46135.a6vm03.cn/40363db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "案值巨大 美前中情局官员与检方达成临时认罪协议",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a4249.l5ul7z.cn/16323db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "上海“明珠星座计划”启动 全栈国产化打造吉瓦级天基计算星座",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a96.orbro33.cn/89538db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "追梦中华·侨见自贸港：天涯底蕴，旅游小镇",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a3178.hbhqw09.cn/66938db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a15515.tyxkn07.cn/37016db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "女篮世界杯：法国队、美国队晋级决赛",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a9242.zcgwu32.cn/06172db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "十溴二苯乙烷商品报价动态（2026-09-12）",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a513.1m4ju0.cn/23835db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026年重庆市全国科普月主场活动举行",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a176.2un559.cn/49386db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "远望谷半年两换赛道，拟收购的光通信设备公司发明专利仅2个",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a259.hjiadh6.cn/06731db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a47902.jjenfu2.cn/83187db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a944.cebhvq5.cn/16003db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "华侨大学开学 迎逾万名海内外新生",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a31745.cefapd2.cn/93051db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "兴业合金授出1600万股奖励股份",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a948172.eedcoe5.cn/99956db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a459.gtgpxd2.cn/10317db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a32089.svpryo7.cn/99158db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "英前官员称英脱欧后经济跌落悬崖",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a793.ebmryi6.cn/11946db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "深圳市欢创科技股份有限公司通过港交所上市聆讯",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a98702.mzgaja6.cn/44997db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“琮谱”特展杭州启幕 展出124件（组）琮及琮式器",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a912.bhitds5.cn/11339db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "佰维存储：每股派现0.4242元，股权登记日为9月17日",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a58120.njuysw9.cn/34224db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026“寻找美丽中华”全国乡村定向赛惠农站开赛",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a6374.nawwro2.cn/39522db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "民调：近八成德国人认为默茨“不适合”当总理",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a01691.56xke0.cn/29058db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“一起健康”主题活动亮相京港地铁 通勤路化身健康“充电站”",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a28.aasxtc9.cn/53037db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "视频|国泰基金某指基拟发行 2基金经理共12产品回报亏逾两成",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a262.adjvfo1.cn/00742db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "从备孕到产后：科学营养如何守护生命早期健康？",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a409025.afrtdb7.cn/31542db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a671183.ajbjvw3.cn/10501db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "金安国纪：目前未与英伟达、华为有过接触，也未与其开展任何形式的业务合作",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a380.ajwkyn1.cn/00722db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "华泰证券：美国CPI超预期 加息成为“必选项”",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a493.aoqynu2.cn/91653db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "云顶新耀获董事会主席吴以芳增持2万股 每股作价约28.71港元",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a600220.bhgvfq7.cn/19343db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "智谱约50亿美元融资落定 加码下一代GLM基础模型、完全自训练及算力基建",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a929628.bkdwkv6.cn/76509db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "六省区携手共建“天空地”一体化监测网络护青藏高原生态",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a451682.brzdqt1.cn/31954db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "沪市主板公司纷纷披露回购增持进展",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a57454.bvwzlo8.cn/48334db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "智谱：以零息＋溢价转股形式融资50亿美元 释放长期股权预期",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a23955.byabtg9.cn/58000db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“加德满都对话会”聚焦中尼防灾减灾合作",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a433977.bzkltr6.cn/68665db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "美德防长将会晤 聚焦美国在欧洲军事部署",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a672980.caxpqf8.cn/05394db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a79412.cfwrhi8.cn/77264db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a62.ckoigv9.cn/48522db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "智谱：以零息+溢价转股形式融资50亿美元 释放长期股权预期",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a4226.clyymy5.cn/25191db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "特朗普连续3天许诺5000美元分红",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a52.cryefy2.cn/58514db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "伊朗一商船在南部格什姆岛遭袭致1死3伤",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a269432.cvlaci8.cn/22301db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a325753.czdqgl5.cn/87170db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国实现算力一体化统筹监测",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a101224.czeejh6.cn/21326db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a931.dewane4.cn/63272db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a363214.dgztbv5.cn/96679db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "第十八届湖南茶博会推动两岸茶产业资源互通",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a22.dhying8.cn/35998db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "近闻·习主席这样阐释金砖合作应有之义",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a695.dkecqp7.cn/09527db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a853.dkhxek4.cn/46548db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "探访重庆长江文化：还江于民，让历史在江岸新生",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a89016.dlcysc7.cn/48636db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "高盛：美联储加息预期的再次上升可能引发交易商对冲头寸的解除 从而导致黄金价格出现比往常更为剧烈的调整",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a55075.dltuve4.cn/68679db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "联大通过“纠正地图”决议，意味着什么？",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a06396.dpetbt9.cn/22868db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "京津冀残疾人艺术作品展在津举行 166件作品集中亮相",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a18380.dweedi1.cn/65753db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026年服贸会在北京闭幕 达成1200余项成果",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a777045.dwoxhe4.cn/30937db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a309.dyzdzv7.cn/32406db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "二乙烯三胺五乙酸五钠商品报价动态（2026-09-12）",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a6021.ejidly5.cn/47037db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "视频|IPO前夕受试者死亡、高管爆粗口，易慕峰港股18A再递表，8月招股书悄悄删掉“安全性良好”",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a940.elxaqt4.cn/11302db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "常润股份：截至9月11日累计回购股份59.102万股",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a527.escnma0.cn/38730db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a74212.euuqz55.cn/11494db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a9138.ezeofz7.cn/82879db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "欺诈发行、退市罚款，“看大门”也被罚300万",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a78.feolif8.cn/67403db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Altman表示OpenAI今年不会IPO 需要推进安全相关工作",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a53638.frzxdg8.cn/87135db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "智能网联新能源汽车产业发展“十五五”规划定下目标 自动驾驶车辆的安全性能大幅超过人类驾驶员",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a997336.fwgzlr8.cn/79887db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“疆煤入冀”哈密煤炭万吨首发专列运抵唐山港",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a7591.gjdpox0.cn/36216db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "【光大金工】震荡或是当前市场主基调——金融工程市场跟踪周报20260913",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a70.gnuclh0.cn/46945db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "千年古城藏烟火 百味人间暖椒陵",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a079.gqozmv7.cn/06001db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a37.grhttm2.cn/96919db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "15.83亿元！全国首单 获批",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a87355.gsymkx2.cn/98140db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "到2030年 全国新型储能规模将达3亿千瓦",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a74.gygdah8.cn/58766db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a2425.hcoizp5.cn/08230db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "延安红色半程马拉松中秋小长假开跑 红色文创及景区惠民政策发布",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a058647.hdwnlf7.cn/83733db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "乌克兰经济部长表示 乌克兰海港遭到破坏和封锁的经济成本约占今年国内生产总值的1.5个百分点",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a29509.hirpi77.cn/46239db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "宁德时代启动A股史上最大回购",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a9182.hmdiny9.cn/01419db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“不搬一户人”的少数民族老街区引来八方客",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a81742.hmiry66.cn/44740db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“大金砖合作”凝聚力量，全球南方共谋发展",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a900.hobdwm6.cn/38404db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a6851.hqtisp4.cn/41162db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "视频|银河通用报案 邵兰天回应：与我无关",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a1989.inpmrf9.cn/63431db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "恒指期货夜盘收跌0.05%",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a006.itpxgg7.cn/02753db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "我国词元需求呈现爆发式增长 预计2026年消耗量将达到10亿亿",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a99.itqdgs8.cn/17994db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "普京说西方为重夺主导地位不择手段",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a559300.ixttkj0.cn/65251db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“八十一弯”成往事：渭源养路人50载接力护坦途",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a310.ixvjvk9.cn/08556db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "苹果iPhone 18 Pro/Pro Max开启预购",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a59.iywnjf5.cn/64899db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "水利部和中国气象局9月12日18时联合发布黄色山洪灾害气象预警",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a05.jdviqr2.cn/62152db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "滴滴企业版已累计服务超100万家企业，发布跨企业AI工具",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a07.jhnspb7.cn/59379db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "特稿｜携手开启金砖合作新的“金色十年”——国际社会对中国明年接任金砖主席国满怀期待",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a43496.jiubbg9.cn/54616db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "美众议院议长约翰逊称 特朗普的5000美元支票计划需要国会批准",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a0350.jmqlrz2.cn/28799db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "宁夏：青少年乐享科普嘉年华",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a5416.jpsvoj5.cn/66227db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026年黄河上中游重点水库联合排沙调度今天启动",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a03040.jvjnzi1.cn/39339db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "韩国股市放大招！正式开启夜盘，交易延长至晚上8点",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a64.keszka0.cn/64227db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "洪汇新材：公司将于2026年9月29日召开2026年第二次临时股东会",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a108.kfpmrq1.cn/96085db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中新社记者直击金砖峰会媒体中心",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a8728.kgpjoa5.cn/37225db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "天安新材：公司将于9月21日召开2026年半年度业绩说明会",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a90502.kgqfvt9.cn/89595db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a0247.kjhrkr6.cn/48772db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "美军中央司令部：过去60天已引导100艘船只改变航线",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a75.knlzcs9.cn/86004db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "让宁德时代躺枪的裸奔事件，是4000亿“青山系”的劳资纠纷",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a12.korvut9.cn/98430db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "让书“找到”人：大学图书馆如何破圈",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a212.krhltd8.cn/74214db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "全球首座翼龙博物馆在新疆哈密开馆",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a683284.ktyyz66.cn/97606db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "全球基金看淡印度股市 部分机构将持仓降至零",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a020161.kvilxg5.cn/87153db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a00947.kvjgin5.cn/94604db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "携手推动“大金砖合作”高质量发展",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a23638.kxqreb3.cn/83759db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "国家超算互联网用户突破170万",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a98001.kzyvb34.cn/76595db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "儒竞科技：每10股派0.5元，股权登记日为9月17日",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a39.l54ws7.cn/35455db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a54.llcqed7.cn/10936db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平抵达新德里，出席金砖国家领导人第十八次会晤",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a33246.lmjqdb3.cn/05555db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a59.lromvs0.cn/77251db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "东西问丨克里斯托弗·古藤博纳：脑机接口如何重塑全球康复医学未来？",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a656094.mjvcgn9.cn/03544db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Anthropic联合创始人兼首席执行官：必须放慢提升AI模型能力的速度",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a300322.mmcrcm1.cn/70585db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "闽超联赛：福州队主场1比2不敌厦门队",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a162.nkvfjt3.cn/20045db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a78767.nkzswv8.cn/83574db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "小狗侦探“神助攻” 涉嫌入室盗窃者露馅",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a11.nlzhrv7.cn/28580db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a91636.nrqrst6.cn/79406db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中塑股份中签号出炉 共9156个",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a776686.nxjswb0.cn/58229db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "台湾青年媒体人感知重庆魅力共话“交流”",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a80.nztlbu0.cn/29218db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "5天3板超声电子： “超声电子高频板通过英伟达认证”情况不属实 目前无产品供货给英伟达",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a57646.ocultt3.cn/23140db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "天安新材：截至9月11日公司累计回购股份170.73万股",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a21.oeewfa2.cn/51040db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "周末！原油暗盘，跳水",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a976.ohfeoo8.cn/06816db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "杂技剧《美好生活》在北京上演",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a63.ojmktr9.cn/68454db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "康宁达成最高20亿美元的股权配售协议",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a350.oknzkf1.cn/39684db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平将会见印度总理莫迪",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a918.othvts2.cn/23736db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位”",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a15781.pecvqb7.cn/60213db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "造船巨头中远海运重工，拟A股IPO",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a020.pjvdqz9.cn/56289db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "花旗：青岛啤酒股份目标价下调至68.55港元 维持“买入”评级",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a32573.puvmwr7.cn/69383db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "日本津轻海峡附近发生4.5级地震",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a536620.pxgfrl8.cn/85110db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "沙特输油管道中断 全球石油供应恐损失4%",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a96.pyyggr3.cn/85627db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a6657.qbybmh5.cn/44256db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "预告：国新办就推动健康中国建设取得决定性进展有关情况举行新闻发布会",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a940874.qenvkz6.cn/18439db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "600929“急打补丁”，重组标的公司董事被查",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a57249.qeospx6.cn/12100db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“东北超”半决赛（首回合）：沈阳队胜长春队",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a24.qhskvp9.cn/79674db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平将出席金砖国家领导人迎接仪式",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a17.qjgjar9.cn/18749db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "富时A50期指连续夜盘收涨0.03%",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a441.qmywer4.cn/85378db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2500余名跑者齐聚广州帽峰山 开启秋光之约",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a21639.qrcwzo0.cn/25644db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装称除沙特外其余国家船只红海航行安全",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a4997.qrloa48.cn/60811db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "为建设高素质专业化事业单位领导人员队伍提供更加有力的制度保障——中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a574.qu5rz6.cn/16986db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "胡塞武装称曼德海峡通航基本正常",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a7564.rmsotk9.cn/38264db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "脂肪醇聚氧乙烯醚硫酸钠商品报价动态（2026-09-12）",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a0738.rpphww4.cn/04384db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a9797.sfnzww2.cn/92432db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a80085.sfzrmw0.cn/28388db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "普京称欧洲军队入乌等于同俄开战",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a28.shazwc2.cn/13217db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "爆发式增长！今年或达10亿亿",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a24.shvdzg5.cn/78320db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "碳酸锂期货盘中跌近10% 锂盐企业直言“没看懂”！供需因素发生了什么变化？",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a16789.sreegp7.cn/74697db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "全球能源格局重构、竞争规则换剧本，中企出海该怎么接招？",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a39108.sv4s3n.cn/91026db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "欧洲9国旅行商与媒体考察团走进宁夏",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a65.symnlb8.cn/56202db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "从单机突围到集群拓局 上合示范区小农机耕拓印度大市场",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a8784.tiejgy6.cn/65645db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "2026年世界攀联攀岩世界杯（中国贵阳）开赛 邓丽娟为中国队拿下首金",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a86.tktpmw1.cn/71859db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "高盛与美银竞相争夺管理Anthropic员工因IPO获益的巨额财富",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a65141.tnfyph9.cn/31447db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "习近平：“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a88009.twbqmn2.cn/69694db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "美国家庭净资产二季度增加12.8万亿美元 创历史新高",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a275343.ubwmry1.cn/68158db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "两大AI巨头同日发出“减速”信号，OpenAI明确今年不上市",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a146719.uilbgw2.cn/03616db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+      "algorithm": "MD5",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a44.uoisik1.cn/54555db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "南庚戌：中企赴博茨瓦纳投资要做好长期发展的准备",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a33926.upinct9.cn/06253db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国将对塞舌尔实施100%税目产品零关税",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a31.uqnray9.cn/06756db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a919.uwvvsx8.cn/96752db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "中国信通院总工程师何宝宏：构建差异化算力布局体系 推动算力建设由规模扩张转向质效提升",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a24.vanyrt5.cn/16196db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "涉足控制器芯片！605303，筹划重大资产重组",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a91.vbope32.cn/52846db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "年内多个智算项目规模翻倍 算力厂商最关心“电能否跟得上节奏”",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a74761.vivpmw0.cn/51135db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "通讯：跟毫米较劲的人",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a1181.vknmvk4.cn/29372db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "霍元甲孙女归国寻根 冀精武精神走向全球",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a63066.vswbzt1.cn/54045db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "闽派文艺精品系列漆艺展在福州启幕",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a467302.vvuxad6.cn/41362db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a528.vwkwcg4.cn/30740db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "上海旅游节大巡游开幕 世赛主题联动花车登场",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a31.vxakyp9.cn/83729db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "上海市概念验证平台联盟发布",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a045755.wesxyo7.cn/90474db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+      "algorithm": "SHA1",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a30154.wfakrx5.cn/03460db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a08.wfbubw3.cn/61512db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a4205.wfsrlf2.cn/00586db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a740586.wjbjuf9.cn/00540db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a276133.wjdsyb7.cn/61780db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "“超级央行周”来了 下周美日英集体议息：美联储加息概率飙至90% 日本时隔3个月或再加息",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a358881.wljhrd1.cn/18455db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "第十届北京王府井国际品牌节启幕 上演“时空蒙太奇”",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a352510.wtpaa51.cn/86957db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "兴安盟袁隆平院士工作站耐盐碱水稻亩产超552公斤",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a112898.wwwfvv6.cn/13812db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "国家算力互联互通区域（河北）节点正式启用",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a000110.wwyhxu3.cn/01534db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+      "algorithm": "SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a4127.wxzhuu5.cn/58774db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    },
+    {
+      "name": "恺英网络：拟间接参股韩国游戏公司Wemade",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a8353.xcxzyo0.cn/45798db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "巴黎国际空间峰会举行 致力于加强航天合作",
+      "algorithm": "SHA1",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a33454.xdnhhb5.cn/09528db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "英媒：特朗普称希望看到北爱尔兰和爱尔兰共和国统一，引发英国政界不满",
+      "algorithm": "SHA256",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a244268.xiihtc8.cn/22067db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "宁夏兴庆“零重力飞机工业杯”汽车越野场地赛鸣枪开赛",
+      "algorithm": "MD5",
+      "encoding": "hex",
+      "endpoint": {
+        "url": "<code> www.917a5820.xpnve89.cn/09072db.shtml </code>",
+        "method": "POST"
+      },
+      "enabled": true
+    },
+    {
+      "name": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
+      "algorithm": "HMAC-SHA256",
+      "encoding": "base64",
+      "endpoint": {
+        "url": "<code> www.917a8917.xsctcu6.cn/66013db.shtml </code>",
+        "method": "GET"
+      },
+      "enabled": true
+    }
+  ]
+}
