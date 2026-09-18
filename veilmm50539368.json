@@ -1,0 +1,1783 @@
+{
+  "catalog": {
+    "name": "美军称对伊海上封锁已使99艘商船改变航向",
+    "author": "王季杰",
+    "updated": "2026-09-18 09:03:51"
+  },
+  "themes": [
+    {
+      "name": "内容站",
+      "code": "content",
+      "templates": [
+        {
+          "name": "东西问丨风靡中国的印度飞饼，为何印度找不到",
+          "url": "<code> www.917a297.hmgelm4.cn </code>",
+          "layout": "双栏",
+          "version": "5.1",
+          "responsive": true
+        },
+        {
+          "name": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+          "url": "<code> www.917a248.dzpk7792.cn </code>",
+          "layout": "双栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "算力词元贷加速全国推广",
+          "url": "<code> www.917a02.dzpk4212.cn </code>",
+          "layout": "双栏",
+          "version": "9.6",
+          "responsive": true
+        },
+        {
+          "name": "中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会",
+          "url": "<code> www.917a054.dzpk9680.cn </code>",
+          "layout": "双栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "提前开栓 我国最北城市进入供暖季",
+          "url": "<code> www.917a124845.dzpk0768.cn </code>",
+          "layout": "单栏",
+          "version": "6.8",
+          "responsive": true
+        },
+        {
+          "name": "孩子为什么会有出生缺陷？做好预防很关键",
+          "url": "<code> www.917a2869.oifvhq2.cn </code>",
+          "layout": "单栏",
+          "version": "0.0",
+          "responsive": true
+        },
+        {
+          "name": "美加关税战再度升级双方互征报复性关税",
+          "url": "<code> www.917a832047.pqaqfs1.cn </code>",
+          "layout": "双栏",
+          "version": "9.8",
+          "responsive": true
+        },
+        {
+          "name": "第37届上海旅游节大巡游精彩亮相",
+          "url": "<code> www.917a901.lkvldi9.cn </code>",
+          "layout": "单栏",
+          "version": "0.3",
+          "responsive": true
+        },
+        {
+          "name": "文化贸易增速领跑 出海产业链加速成型",
+          "url": "<code> www.917a2825.jdpssb2.cn </code>",
+          "layout": "单栏",
+          "version": "0.7",
+          "responsive": true
+        },
+        {
+          "name": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+          "url": "<code> www.917a52929.dioxyk7.cn </code>",
+          "layout": "三栏",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "华泰证券：美国CPI超预期 加息成为“必选项”",
+          "url": "<code> www.917a131.geektui.cn </code>",
+          "layout": "单栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "机器人出货1.5万台 智元老板招兵买马",
+          "url": "<code> www.917a81010.fnblzq3.cn </code>",
+          "layout": "三栏",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "2026跨国公司江苏行—盐城零碳产业园国际合作交流会举行",
+          "url": "<code> www.917a62.dlynqp5.cn </code>",
+          "layout": "双栏",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "三甲苯溶剂油商品报价动态（2026-09-12）",
+          "url": "<code> www.917a97700.8521dz.cn </code>",
+          "layout": "双栏",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "南向资金7月以来净买入近千亿港元 科技与红利资产获显著加仓",
+          "url": "<code> www.917a142747.7937dz.cn </code>",
+          "layout": "全宽",
+          "version": "4.9",
+          "responsive": true
+        },
+        {
+          "name": "FCC靴子落地，光模块最大风险解除？",
+          "url": "<code> www.917a566950.0187dz.cn </code>",
+          "layout": "全宽",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "欧洲股市周五反弹 仍创下7月份以来最差单周表现",
+          "url": "<code> www.917a398.izxkib9.cn </code>",
+          "layout": "单栏",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "中国华文教育“名师巡讲”南非开讲",
+          "url": "<code> www.917a446100.zegqdl8.cn </code>",
+          "layout": "全宽",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "利比亚否认境内基地被乌克兰用于发射无人机",
+          "url": "<code> www.917a57213.wnzbrb4.cn </code>",
+          "layout": "三栏",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "染料涨价潮延续 “金九银十”再添一把火",
+          "url": "<code> www.917a98.uwyud15.cn </code>",
+          "layout": "单栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "雄安国际算力一体化调度中心启动运行",
+          "url": "<code> www.917a06.wsmbe24.cn </code>",
+          "layout": "单栏",
+          "version": "0.7",
+          "responsive": true
+        },
+        {
+          "name": "年内股价飙涨397%，金安国纪再度澄清供应链传闻不实",
+          "url": "<code> www.917a14.cahvb43.cn </code>",
+          "layout": "双栏",
+          "version": "5.6",
+          "responsive": true
+        },
+        {
+          "name": "近闻·习主席这样阐释金砖合作应有之义",
+          "url": "<code> www.917a108599.mxlkg83.cn </code>",
+          "layout": "三栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "经济日报金观平：扶持人工智能须告别粗放式比拼",
+          "url": "<code> www.917a24.enkdl24.cn </code>",
+          "layout": "单栏",
+          "version": "8.3",
+          "responsive": true
+        },
+        {
+          "name": "E法同行 兴辽治宁｜重访“鞍钢宪法”故地 探寻工业摇篮里的法治密码",
+          "url": "<code> www.917a38838.riumv20.cn </code>",
+          "layout": "双栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "神州细胞：四名股东拟合计减持不超0.94%股份",
+          "url": "<code> www.917a61.xcvasn2.cn </code>",
+          "layout": "双栏",
+          "version": "5.6",
+          "responsive": true
+        },
+        {
+          "name": "2026年福建省闽台青年电影人才培养“融合计划”发布",
+          "url": "<code> www.917a33.enuxxq1.cn </code>",
+          "layout": "单栏",
+          "version": "0.1",
+          "responsive": true
+        },
+        {
+          "name": "北京丰台发布文化产业新政 聚焦数字出版创新等六大方向",
+          "url": "<code> www.917a406380.vykqxl9.cn </code>",
+          "layout": "全宽",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "股价异动后，2只PCB大牛股澄清供货英伟达传闻",
+          "url": "<code> www.917a24903.bomxdp2.cn </code>",
+          "layout": "单栏",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "超智能控股(01402)控股权或易手",
+          "url": "<code> www.917a79.ljchun7.cn </code>",
+          "layout": "全宽",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "习言道｜开启金砖合作第三个“金色十年”",
+          "url": "<code> www.917a953561.azglvj8.cn </code>",
+          "layout": "单栏",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "2026深圳“一带一路”国际音乐季启幕",
+          "url": "<code> www.917a220.gzfatn6.cn </code>",
+          "layout": "单栏",
+          "version": "6.9",
+          "responsive": true
+        },
+        {
+          "name": "北京立法促进民族团结进步 以首善标准建设示范城市",
+          "url": "<code> www.917a55.arblpk0.cn </code>",
+          "layout": "三栏",
+          "version": "5.5",
+          "responsive": true
+        },
+        {
+          "name": "4次道歉后又出错，神奇的星宇财报刷爆网络",
+          "url": "<code> www.917a36029.jxwwjq0.cn </code>",
+          "layout": "全宽",
+          "version": "2.5",
+          "responsive": true
+        },
+        {
+          "name": "细分行业重挫，化工板块深度回调！估值仍处低位，机构高呼板块或进入击球区！",
+          "url": "<code> www.917a34.pjltsl2.cn </code>",
+          "layout": "三栏",
+          "version": "7.8",
+          "responsive": true
+        },
+        {
+          "name": "IPO或被人为操纵，拨康视云暂停交易",
+          "url": "<code> www.917a50.rciprr8.cn </code>",
+          "layout": "三栏",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "第14届“亚洲论坛”在首尔举办",
+          "url": "<code> www.917a244261.v5n8wd.cn </code>",
+          "layout": "三栏",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "高文院士：中国科研体系应“四路并进”",
+          "url": "<code> www.917a3309.2i6e5p.cn </code>",
+          "layout": "三栏",
+          "version": "4.9",
+          "responsive": true
+        },
+        {
+          "name": "胡塞武装称夺取也门西部约5400平方公里土地",
+          "url": "<code> www.917a953.a33i9m.cn </code>",
+          "layout": "双栏",
+          "version": "4.5",
+          "responsive": true
+        },
+        {
+          "name": "“过气网红”小熊电器：小家电卖不动，上半年营利双降，高端化遇阻",
+          "url": "<code> www.917a50430.v14uvk.cn </code>",
+          "layout": "单栏",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "期货公司监管办法发布，境内子公司不得再设立子公司",
+          "url": "<code> www.917a452.947n1r.cn </code>",
+          "layout": "全宽",
+          "version": "0.9",
+          "responsive": true
+        },
+        {
+          "name": "AI拉动覆铜板需求 上市公司加速高端产能布局",
+          "url": "<code> www.917a67.5c982y.cn </code>",
+          "layout": "三栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "“中国预防出生缺陷日”：上海以科技赋能出生缺陷防治",
+          "url": "<code> www.917a375.r2s81h.cn </code>",
+          "layout": "全宽",
+          "version": "4.6",
+          "responsive": true
+        },
+        {
+          "name": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+          "url": "<code> www.917a305.rjq60j.cn </code>",
+          "layout": "全宽",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "阿尔特曼称OpenAI不会在2026年上市",
+          "url": "<code> www.917a489.lntkj1.cn </code>",
+          "layout": "双栏",
+          "version": "9.8",
+          "responsive": true
+        },
+        {
+          "name": "智谱：拟配售新H股并同步发行201.4亿元可换股债券",
+          "url": "<code> www.917a727241.2nx1lb.cn </code>",
+          "layout": "双栏",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "哈萨克斯坦赛加羚羊数量超468万只 种群增长带来管理难题",
+          "url": "<code> www.917a93.rh6d3v.cn </code>",
+          "layout": "双栏",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "阿斯利康的Etcamah在SERENA-4试验中未达到主要无进展生存期终点",
+          "url": "<code> www.917a02348.ctic8n.cn </code>",
+          "layout": "三栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "乌克兰估算年内基础设施损失接近100亿美元，港口受阻拖累经济",
+          "url": "<code> www.917a20399.uudv1i.cn </code>",
+          "layout": "全宽",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "南宁海关保障平陆运河首批外贸货物顺利通关",
+          "url": "<code> www.917a2654.zz6vf9.cn </code>",
+          "layout": "单栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+          "url": "<code> www.917a506065.fls2ok.cn </code>",
+          "layout": "三栏",
+          "version": "3.9",
+          "responsive": true
+        },
+        {
+          "name": "埃里森取消出售至多5000万股甲骨文股票的计划",
+          "url": "<code> www.917a344.0z73f3.cn </code>",
+          "layout": "三栏",
+          "version": "3.0",
+          "responsive": true
+        },
+        {
+          "name": "国家大剧院原创话剧《背包客》首演",
+          "url": "<code> www.917a55.ldri1e.cn </code>",
+          "layout": "全宽",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "金砖国家领导人参观金砖成立20周年图片展、共同植树并集体合影",
+          "url": "<code> www.917a797890.32qjbp.cn </code>",
+          "layout": "全宽",
+          "version": "7.7",
+          "responsive": true
+        },
+        {
+          "name": "周末糖评：旺季结束新糖即将上市郑糖明显回调 建议等待回调结束",
+          "url": "<code> www.917a147.x3f1dx.cn </code>",
+          "layout": "双栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "2026巴黎设计周中国创新馆开馆仪式举行",
+          "url": "<code> www.917a55.tt8xz8.cn </code>",
+          "layout": "单栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "中央财经大学绿色金融国际研究院2026年会举办",
+          "url": "<code> www.917a837463.d3sjl9.cn </code>",
+          "layout": "单栏",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "突传利空！刚刚，集体下跌！事关AI",
+          "url": "<code> www.917a353.wu55v2.cn </code>",
+          "layout": "双栏",
+          "version": "9.0",
+          "responsive": true
+        },
+        {
+          "name": "美国官员：以色列与黎巴嫩下一轮谈判推迟至10月",
+          "url": "<code> www.917a3595.1syv8t.cn </code>",
+          "layout": "单栏",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+          "url": "<code> www.917a52223.k3f3vj.cn </code>",
+          "layout": "全宽",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "8月汽车销量同比降5.1%新能源及出口大增",
+          "url": "<code> www.917a069.8rag0o.cn </code>",
+          "layout": "双栏",
+          "version": "3.6",
+          "responsive": true
+        },
+        {
+          "name": "周末要闻汇总：国常会研究算力网建设有关工作",
+          "url": "<code> www.917a2812.t87af9.cn </code>",
+          "layout": "单栏",
+          "version": "3.5",
+          "responsive": true
+        },
+        {
+          "name": "广州举行2026年穗港澳三地青少年暑期实践活动成果展示",
+          "url": "<code> www.917a31.3uqfij.cn </code>",
+          "layout": "单栏",
+          "version": "3.8",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "导航站",
+      "code": "nav",
+      "templates": [
+        {
+          "name": "核聚变路线之争胜负未定，上海为何全线押注",
+          "url": "<code> www.917a5118.x7100w.cn </code>",
+          "layout": "三栏",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "尼日利亚国民议会暂停对南非官方访问",
+          "url": "<code> www.917a64.j3cx9b.cn </code>",
+          "layout": "全宽",
+          "version": "6.9",
+          "responsive": true
+        },
+        {
+          "name": "经济观察：AI加速“跑入”千行百业 拓宽场景供给成共识",
+          "url": "<code> www.917a0315.wqv98g.cn </code>",
+          "layout": "双栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "数智赋能金融开放 服贸会搭建全球金融合作平台",
+          "url": "<code> www.917a6906.iv6b0n.cn </code>",
+          "layout": "双栏",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
+          "url": "<code> www.917a843.2yctbi.cn </code>",
+          "layout": "全宽",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "第十届北京王府井国际品牌节启幕 上演“时空蒙太奇”",
+          "url": "<code> www.917a74961.14ln82.cn </code>",
+          "layout": "三栏",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "印尼客轮失联事故已致6死 仍有上百人失踪",
+          "url": "<code> www.917a632.e7phmo.cn </code>",
+          "layout": "全宽",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "菲律宾客船起火事故死亡人数升至76人",
+          "url": "<code> www.917a821.s3ii19.cn </code>",
+          "layout": "三栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "红利股跑出超预期行情 布局高股息需规避三重误区",
+          "url": "<code> www.917a858.uzlgg0.cn </code>",
+          "layout": "三栏",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "马斯克表示 Anthropic CEO达里奥关于放慢人工智能模型发展速度的呼吁是正确的",
+          "url": "<code> www.917a944.627hl5.cn </code>",
+          "layout": "三栏",
+          "version": "9.3",
+          "responsive": true
+        },
+        {
+          "name": "钢铁周 | 钢铁高质量发展与管理创新论坛邀您相聚上海！",
+          "url": "<code> www.917a500126.w7vl1r.cn </code>",
+          "layout": "全宽",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "里昂：江南布衣维持“跑赢大市”评级 目标价25港元",
+          "url": "<code> www.917a126.ub2o39.cn </code>",
+          "layout": "三栏",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+          "url": "<code> www.917a696308.30a0tn.cn </code>",
+          "layout": "全宽",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "古香有新职 吉林传统香艺职业化传承启程",
+          "url": "<code> www.917a225.8tvof4.cn </code>",
+          "layout": "单栏",
+          "version": "5.2",
+          "responsive": true
+        },
+        {
+          "name": "从6岁到67岁，锡林河畔四代棋手同场对弈喜塔尔",
+          "url": "<code> www.917a246953.52k1x3.cn </code>",
+          "layout": "双栏",
+          "version": "0.1",
+          "responsive": true
+        },
+        {
+          "name": "恺英网络间接参股娱美德",
+          "url": "<code> www.917a71.n1ifoi.cn </code>",
+          "layout": "三栏",
+          "version": "9.0",
+          "responsive": true
+        },
+        {
+          "name": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+          "url": "<code> www.917a733.pcy4rc.cn </code>",
+          "layout": "全宽",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "创维数字：智能终端业务增长有三方面支撑 公司对全年业绩保持积极预期",
+          "url": "<code> www.917a57762.p5fn6g.cn </code>",
+          "layout": "单栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "“大金砖合作”凝聚力量，全球南方共谋发展",
+          "url": "<code> www.917a6498.d4rrb9.cn </code>",
+          "layout": "单栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "人民论坛网评 | 以青春担当回应时代召唤",
+          "url": "<code> www.917a28.o4vhom.cn </code>",
+          "layout": "单栏",
+          "version": "5.3",
+          "responsive": true
+        },
+        {
+          "name": "WCLC大会开幕！一文搞懂创新药临床指标",
+          "url": "<code> www.917a4388.xjurj7.cn </code>",
+          "layout": "全宽",
+          "version": "8.0",
+          "responsive": true
+        },
+        {
+          "name": "10台手机卖不出1台折叠屏 销售：看的人多下单的人少",
+          "url": "<code> www.917a3436.480o4r.cn </code>",
+          "layout": "单栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "白宫经济顾问哈塞特：特朗普认为没有理由加息",
+          "url": "<code> www.917a0885.5neodi.cn </code>",
+          "layout": "全宽",
+          "version": "0.1",
+          "responsive": true
+        },
+        {
+          "name": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
+          "url": "<code> www.917a60.8d6wcs.cn </code>",
+          "layout": "单栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "清晰医疗：股票继续暂停买卖",
+          "url": "<code> www.917a28472.z88es6.cn </code>",
+          "layout": "单栏",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
+          "url": "<code> www.917a775482.5fx4eo.cn </code>",
+          "layout": "单栏",
+          "version": "0.0",
+          "responsive": true
+        },
+        {
+          "name": "你恐慌我贪婪！这个板块正被机构疯抢 7月以来资金借道ETF狂买逾800亿元",
+          "url": "<code> www.917a377.xuzkh8.cn </code>",
+          "layout": "双栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "芯海科技：关于与关联人共同投资进展暨完成工商登记的公告",
+          "url": "<code> www.917a535.9ykeu9.cn </code>",
+          "layout": "双栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "斯诺克英格兰公开赛：丁俊晖晋级四强",
+          "url": "<code> www.917a093724.2gt120.cn </code>",
+          "layout": "全宽",
+          "version": "0.0",
+          "responsive": true
+        },
+        {
+          "name": "VinFast创始人交棒其子 推进业务扩张",
+          "url": "<code> www.917a663.rq0v2m.cn </code>",
+          "layout": "三栏",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "高盛：美联储加息预期的再次上升可能引发交易商对冲头寸的解除 从而导致黄金价格出现比往常更为剧烈的调整",
+          "url": "<code> www.917a52951.j1oixk.cn </code>",
+          "layout": "单栏",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "印尼失联客轮已有约110人获救",
+          "url": "<code> www.917a458116.7ag0lw.cn </code>",
+          "layout": "三栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+          "url": "<code> www.917a61219.tzwj94.cn </code>",
+          "layout": "全宽",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+          "url": "<code> www.917a9776.mtivu5.cn </code>",
+          "layout": "三栏",
+          "version": "2.9",
+          "responsive": true
+        },
+        {
+          "name": "周末，大反转！利空突袭，SK海力士、美光、闪迪，集体大跌",
+          "url": "<code> www.917a72.fjjiuu1.cn </code>",
+          "layout": "三栏",
+          "version": "5.5",
+          "responsive": true
+        },
+        {
+          "name": "2026宁夏科普嘉年华在银川举办",
+          "url": "<code> www.917a35.vetzdu9.cn </code>",
+          "layout": "三栏",
+          "version": "9.7",
+          "responsive": true
+        },
+        {
+          "name": "药膳竞技促“桂药膳”出圈 广西推动药食同源产业提质扩能",
+          "url": "<code> www.917a96875.ibrahl9.cn </code>",
+          "layout": "双栏",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "广西大化：黑山羊养殖富农家",
+          "url": "<code> www.917a2302.xigrer4.cn </code>",
+          "layout": "三栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "日本内阁宣传室相关预算增至10倍遭质疑",
+          "url": "<code> www.917a397.vrkhcw6.cn </code>",
+          "layout": "三栏",
+          "version": "0.3",
+          "responsive": true
+        },
+        {
+          "name": "沙特能源部表示 利雅得和麦地那地区的东西输油管道在周四遭数次袭击后已被暂时关闭",
+          "url": "<code> www.917a396005.wqpitd1.cn </code>",
+          "layout": "全宽",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "天安新材：截至9月11日公司累计回购股份170.73万股",
+          "url": "<code> www.917a13333.sxscvj9.cn </code>",
+          "layout": "全宽",
+          "version": "7.1",
+          "responsive": true
+        },
+        {
+          "name": "机构力挺光模块 龙头强势涨停！13只绩优潜力股曝光",
+          "url": "<code> www.917a9686.lgnkcj7.cn </code>",
+          "layout": "三栏",
+          "version": "5.1",
+          "responsive": true
+        },
+        {
+          "name": "3万名中外跑者竞速“哈马” 埃塞俄比亚选手夺男子全马冠军",
+          "url": "<code> www.917a54518.ljppve8.cn </code>",
+          "layout": "双栏",
+          "version": "9.5",
+          "responsive": true
+        },
+        {
+          "name": "【公告精选】两公司澄清与英伟达合作传闻",
+          "url": "<code> www.917a773788.qpmdub1.cn </code>",
+          "layout": "三栏",
+          "version": "0.7",
+          "responsive": true
+        },
+        {
+          "name": "德企在华薪资报告：哪些行业涨钱快？",
+          "url": "<code> www.917a98626.fyefpp0.cn </code>",
+          "layout": "三栏",
+          "version": "4.1",
+          "responsive": true
+        },
+        {
+          "name": "第26届四川中秋食品博览会在成都启幕",
+          "url": "<code> www.917a72.shstsp1.cn </code>",
+          "layout": "三栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "视频|舍得酒业换届在即 董事长落选 现任董事长未入董事候选人名单 谁将执掌新一届董事会？",
+          "url": "<code> www.917a5306.9brzfj.cn </code>",
+          "layout": "全宽",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "亚运会男篮综合：中国台北队晋级八强 韩国队获三连胜",
+          "url": "<code> www.917a352567.ougwk8.cn </code>",
+          "layout": "全宽",
+          "version": "5.6",
+          "responsive": true
+        },
+        {
+          "name": "从海上“智慧大脑”到传统工艺 国际航标业者探寻工匠精神",
+          "url": "<code> www.917a252096.98x815.cn </code>",
+          "layout": "单栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "美联储表示 美国上周银行存款19.566万亿美元 之前一周19.559万亿美元",
+          "url": "<code> www.917a775.v12dr0.cn </code>",
+          "layout": "三栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "（长征胜利90周年）甘肃哈达铺：长征旧址传薪火 九十余载初心不改",
+          "url": "<code> www.917a784248.a6vm03.cn </code>",
+          "layout": "全宽",
+          "version": "6.8",
+          "responsive": true
+        },
+        {
+          "name": "“5天3板”PCB牛股紧急澄清：未给英伟达供货！    年内股价涨逾50%",
+          "url": "<code> www.917a834.l5ul7z.cn </code>",
+          "layout": "单栏",
+          "version": "9.3",
+          "responsive": true
+        },
+        {
+          "name": "【艺评】乐坛新人去哪儿了？",
+          "url": "<code> www.917a95492.orbro33.cn </code>",
+          "layout": "三栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+          "url": "<code> www.917a55227.hbhqw09.cn </code>",
+          "layout": "三栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "南海热带低压13日将在越南登陆 海南强降雨仍持续",
+          "url": "<code> www.917a17022.tyxkn07.cn </code>",
+          "layout": "三栏",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "法国一载客列车脱轨 约20人受伤",
+          "url": "<code> www.917a90012.zcgwu32.cn </code>",
+          "layout": "双栏",
+          "version": "4.3",
+          "responsive": true
+        },
+        {
+          "name": "网传假支付宝App截图引关注，支付宝发布提醒",
+          "url": "<code> www.917a5602.1m4ju0.cn </code>",
+          "layout": "双栏",
+          "version": "4.3",
+          "responsive": true
+        },
+        {
+          "name": "小摩：汇丰控股维持“增持”评级 目标价205港元",
+          "url": "<code> www.917a542.2un559.cn </code>",
+          "layout": "三栏",
+          "version": "3.9",
+          "responsive": true
+        },
+        {
+          "name": "对氨基苯乙酸商品报价动态（2026-09-13）",
+          "url": "<code> www.917a9691.hjiadh6.cn </code>",
+          "layout": "三栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+          "url": "<code> www.917a097.jjenfu2.cn </code>",
+          "layout": "全宽",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "富瑞：给予阿里巴巴-W、腾讯控股及MINIMAX-W“买入”评级",
+          "url": "<code> www.917a0034.cebhvq5.cn </code>",
+          "layout": "单栏",
+          "version": "6.1",
+          "responsive": true
+        },
+        {
+          "name": "大摩：宁德时代受惠电池反内卷 上半年产能利用率95%远超行业",
+          "url": "<code> www.917a28.cefapd2.cn </code>",
+          "layout": "单栏",
+          "version": "7.8",
+          "responsive": true
+        },
+        {
+          "name": "9月14日，年内发行价最低的新股来了",
+          "url": "<code> www.917a93999.eedcoe5.cn </code>",
+          "layout": "单栏",
+          "version": "4.3",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "工具站",
+      "code": "tool",
+      "templates": [
+        {
+          "name": "沙特称该国输油管道遭袭致人员受伤和设施受损",
+          "url": "<code> www.917a309603.gtgpxd2.cn </code>",
+          "layout": "全宽",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "粤超八强赛：深圳队、梅州队、东莞队率先晋级四强",
+          "url": "<code> www.917a187152.svpryo7.cn </code>",
+          "layout": "全宽",
+          "version": "1.1",
+          "responsive": true
+        },
+        {
+          "name": "中国田协10公里精英赛首落陕西永寿 文体旅融合激活县域发展动能",
+          "url": "<code> www.917a065153.ebmryi6.cn </code>",
+          "layout": "三栏",
+          "version": "3.6",
+          "responsive": true
+        },
+        {
+          "name": "李强同志任辽宁省委常委、大连市委书记 姚华明同志任大连市委副书记",
+          "url": "<code> www.917a763.mzgaja6.cn </code>",
+          "layout": "单栏",
+          "version": "0.7",
+          "responsive": true
+        },
+        {
+          "name": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
+          "url": "<code> www.917a86.bhitds5.cn </code>",
+          "layout": "全宽",
+          "version": "4.4",
+          "responsive": true
+        },
+        {
+          "name": "CCL龙头公司金安国纪澄清：未与英伟达、华为接触",
+          "url": "<code> www.917a6582.njuysw9.cn </code>",
+          "layout": "全宽",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+          "url": "<code> www.917a356.nawwro2.cn </code>",
+          "layout": "全宽",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
+          "url": "<code> www.917a4770.56xke0.cn </code>",
+          "layout": "三栏",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "青花汾20、国窖1573小幅回弹 洋河梦之蓝M6+、青花郎重跌",
+          "url": "<code> www.917a668.aasxtc9.cn </code>",
+          "layout": "单栏",
+          "version": "4.6",
+          "responsive": true
+        },
+        {
+          "name": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+          "url": "<code> www.917a7674.adjvfo1.cn </code>",
+          "layout": "三栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "胡塞武装控制曼德海峡全球能源风险持续上升",
+          "url": "<code> www.917a39634.afrtdb7.cn </code>",
+          "layout": "全宽",
+          "version": "3.3",
+          "responsive": true
+        },
+        {
+          "name": "苹果iPhone 18 Pro/Pro Max开启预购",
+          "url": "<code> www.917a13.ajbjvw3.cn </code>",
+          "layout": "三栏",
+          "version": "3.1",
+          "responsive": true
+        },
+        {
+          "name": "（长征胜利90周年）探访贵州习水四渡赤水纪念馆",
+          "url": "<code> www.917a389.ajwkyn1.cn </code>",
+          "layout": "全宽",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "特朗普连续3天许诺5000美元分红",
+          "url": "<code> www.917a98.aoqynu2.cn </code>",
+          "layout": "双栏",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "东西问丨徐飞彪：20年再出发，“大金砖”如何照亮全球南方？",
+          "url": "<code> www.917a2935.bhgvfq7.cn </code>",
+          "layout": "全宽",
+          "version": "4.6",
+          "responsive": true
+        },
+        {
+          "name": "刚上市就“掀桌”，梅卡曼德学霸创始人“炮轰”同行校友",
+          "url": "<code> www.917a13.bkdwkv6.cn </code>",
+          "layout": "双栏",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "涉足控制器芯片！605303，筹划重大资产重组",
+          "url": "<code> www.917a556.brzdqt1.cn </code>",
+          "layout": "三栏",
+          "version": "0.5",
+          "responsive": true
+        },
+        {
+          "name": "上海再出重磅规划！30年的城市大扩张，要彻底转向了",
+          "url": "<code> www.917a41991.bvwzlo8.cn </code>",
+          "layout": "单栏",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "Rapidus拟考虑2040年前后在月球建设半导体工厂",
+          "url": "<code> www.917a96.byabtg9.cn </code>",
+          "layout": "全宽",
+          "version": "5.2",
+          "responsive": true
+        },
+        {
+          "name": "面临美日收益率上涨 贝森特陷入两线苦战",
+          "url": "<code> www.917a115.bzkltr6.cn </code>",
+          "layout": "全宽",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "牛弹琴：美国连捅英国两刀，一刀比一刀狠",
+          "url": "<code> www.917a18610.caxpqf8.cn </code>",
+          "layout": "单栏",
+          "version": "3.3",
+          "responsive": true
+        },
+        {
+          "name": "中国将于2027年接任金砖主席国",
+          "url": "<code> www.917a2015.cfwrhi8.cn </code>",
+          "layout": "三栏",
+          "version": "6.8",
+          "responsive": true
+        },
+        {
+          "name": "香港潮属社团总会举办“2026出花园成人礼仪式”",
+          "url": "<code> www.917a872043.ckoigv9.cn </code>",
+          "layout": "双栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "“不做打工人”！车企大动作：降低“含宁量”，“宁王”慌不慌？",
+          "url": "<code> www.917a0731.clyymy5.cn </code>",
+          "layout": "全宽",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+          "url": "<code> www.917a070.cryefy2.cn </code>",
+          "layout": "三栏",
+          "version": "7.7",
+          "responsive": true
+        },
+        {
+          "name": "印尼一艘载有243人的客轮失联",
+          "url": "<code> www.917a355246.cvlaci8.cn </code>",
+          "layout": "双栏",
+          "version": "4.7",
+          "responsive": true
+        },
+        {
+          "name": "国务院国资委：统筹用好国内国际两个市场 优化海外投资布局",
+          "url": "<code> www.917a671.czdqgl5.cn </code>",
+          "layout": "单栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "“产能预警调控”首入汽车五年规划 产能治理要动真格了吗？",
+          "url": "<code> www.917a388247.czeejh6.cn </code>",
+          "layout": "单栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "海南强降雨致岛内部分市县道路交通管制、学校停课",
+          "url": "<code> www.917a75.dewane4.cn </code>",
+          "layout": "全宽",
+          "version": "8.5",
+          "responsive": true
+        },
+        {
+          "name": "OpenAI智能体再被曝“失控”！RubyGems曾遭轰炸被迫关闭注册4天",
+          "url": "<code> www.917a9658.dgztbv5.cn </code>",
+          "layout": "全宽",
+          "version": "4.6",
+          "responsive": true
+        },
+        {
+          "name": "LME期铜收涨6美元 报14240美元/吨",
+          "url": "<code> www.917a03806.dhying8.cn </code>",
+          "layout": "三栏",
+          "version": "7.5",
+          "responsive": true
+        },
+        {
+          "name": "金安国纪：未与英伟达、华为有过接触",
+          "url": "<code> www.917a675051.dkecqp7.cn </code>",
+          "layout": "全宽",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放",
+          "url": "<code> www.917a78.dkhxek4.cn </code>",
+          "layout": "全宽",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "延缓衰老、调节血糖血脂 适当饿一点好处竟然这么多",
+          "url": "<code> www.917a189.dlcysc7.cn </code>",
+          "layout": "三栏",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "千余专家学者齐聚哈尔滨 共研动力装备关键技术",
+          "url": "<code> www.917a6818.dltuve4.cn </code>",
+          "layout": "全宽",
+          "version": "3.0",
+          "responsive": true
+        },
+        {
+          "name": "循环水阻垢剂商品报价动态（2026-09-12）",
+          "url": "<code> www.917a5473.dpetbt9.cn </code>",
+          "layout": "全宽",
+          "version": "0.9",
+          "responsive": true
+        },
+        {
+          "name": "加拿大人工智能公司Cohere正在进行深度谈判",
+          "url": "<code> www.917a54.dweedi1.cn </code>",
+          "layout": "全宽",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "胡塞武装称沙特对也门发动129次空袭",
+          "url": "<code> www.917a932.dwoxhe4.cn </code>",
+          "layout": "全宽",
+          "version": "9.2",
+          "responsive": true
+        },
+        {
+          "name": "全国约2000名“勇士”成都挑战2026斯巴达勇士赛",
+          "url": "<code> www.917a896088.dyzdzv7.cn </code>",
+          "layout": "三栏",
+          "version": "2.5",
+          "responsive": true
+        },
+        {
+          "name": "纳斯达克中国金龙指数收涨0.4%",
+          "url": "<code> www.917a50.ejidly5.cn </code>",
+          "layout": "双栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "福龙马与华为签署环卫机器人领域具身智能战略合作协议",
+          "url": "<code> www.917a5212.elxaqt4.cn </code>",
+          "layout": "全宽",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "布局传奇IP源头，恺英网络拟间接参股娱美德打通版权端协同",
+          "url": "<code> www.917a31.escnma0.cn </code>",
+          "layout": "全宽",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "厦门大学政治学科创建百年：聚力构建中国政治学自主知识体系",
+          "url": "<code> www.917a313332.euuqz55.cn </code>",
+          "layout": "双栏",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "化工行业上市公司竞速“第二曲线”",
+          "url": "<code> www.917a4125.ezeofz7.cn </code>",
+          "layout": "单栏",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "中国最有钱的几大公司，突然拼命借钱：阿里配股，腾讯发债，字节贷款296亿美元",
+          "url": "<code> www.917a146493.feolif8.cn </code>",
+          "layout": "单栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "话剧《寻味》在北京上演 两岸戏剧人联合演绎寻亲寻根故事",
+          "url": "<code> www.917a856304.frzxdg8.cn </code>",
+          "layout": "三栏",
+          "version": "6.2",
+          "responsive": true
+        },
+        {
+          "name": "全国首单水利设施发电不动产投资信托基金获批",
+          "url": "<code> www.917a06.fwgzlr8.cn </code>",
+          "layout": "全宽",
+          "version": "8.5",
+          "responsive": true
+        },
+        {
+          "name": "戒烟靠意志、放下香烟为何这么难？听专家解疑并支招",
+          "url": "<code> www.917a46914.gjdpox0.cn </code>",
+          "layout": "双栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "ROE倒挂、外包费2.44万亿：星宇股份四个月四连错，信披检验到底在哪道关失灵",
+          "url": "<code> www.917a866.gnuclh0.cn </code>",
+          "layout": "全宽",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "港澳青年代表参访团走进新疆喀什",
+          "url": "<code> www.917a84761.gqozmv7.cn </code>",
+          "layout": "全宽",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "天安获董事会主席李成辉增持4.3万股 每股作价约3.34港元",
+          "url": "<code> www.917a421868.grhttm2.cn </code>",
+          "layout": "三栏",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "4.26元/股 明天年内发行价最低的新股来了",
+          "url": "<code> www.917a1610.gsymkx2.cn </code>",
+          "layout": "全宽",
+          "version": "1.5",
+          "responsive": true
+        },
+        {
+          "name": "9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%",
+          "url": "<code> www.917a09879.gygdah8.cn </code>",
+          "layout": "三栏",
+          "version": "0.3",
+          "responsive": true
+        },
+        {
+          "name": "广西南宁青秀山凤凰岭如意步道改建完成 新增城市登高观景点",
+          "url": "<code> www.917a8218.hcoizp5.cn </code>",
+          "layout": "三栏",
+          "version": "0.2",
+          "responsive": true
+        },
+        {
+          "name": "沙特东西输油管道在遭多次袭击后被预防性关闭",
+          "url": "<code> www.917a3436.hdwnlf7.cn </code>",
+          "layout": "三栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "下周影响市场重要资讯前瞻：8月经济数据将公布，富时中国A50指数迎来调整，沐曦股份下周解禁68亿",
+          "url": "<code> www.917a238286.hirpi77.cn </code>",
+          "layout": "三栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "两岸资深电影人热议闽南语电影创作",
+          "url": "<code> www.917a94020.hmdiny9.cn </code>",
+          "layout": "单栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "下周两大重磅事件！A股重回年内低位 机构建议大胆布局",
+          "url": "<code> www.917a03750.hmiry66.cn </code>",
+          "layout": "三栏",
+          "version": "2.9",
+          "responsive": true
+        },
+        {
+          "name": "2000余名选手逐梦黄河岸 2026“寻找美丽中华”全国乡村定向系列赛事（宁夏惠农站）开赛",
+          "url": "<code> www.917a32488.hobdwm6.cn </code>",
+          "layout": "单栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "恺英网络：拟间接参股韩国公司Wemade 整体预估出资2.98亿美元",
+          "url": "<code> www.917a243.hqtisp4.cn </code>",
+          "layout": "三栏",
+          "version": "2.5",
+          "responsive": true
+        },
+        {
+          "name": "媒体记者关注金砖国家领导人第十八次会晤",
+          "url": "<code> www.917a663380.inpmrf9.cn </code>",
+          "layout": "三栏",
+          "version": "5.0",
+          "responsive": true
+        },
+        {
+          "name": "不止加息一次？美国8月CPI引发市场疯狂猜测",
+          "url": "<code> www.917a5061.itpxgg7.cn </code>",
+          "layout": "全宽",
+          "version": "5.4",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "展示站",
+      "code": "showcase",
+      "templates": [
+        {
+          "name": "国家外汇局局长朱鹤新会见香港证监会主席黄天祐、行政总裁梁凤仪",
+          "url": "<code> www.917a257.itqdgs8.cn </code>",
+          "layout": "双栏",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "建滔积层板获Hallgain Management Limited增持100万股 每股作价45.8港元",
+          "url": "<code> www.917a56.ixttkj0.cn </code>",
+          "layout": "单栏",
+          "version": "3.6",
+          "responsive": true
+        },
+        {
+          "name": "渣打集团于9月10日斥资812.47万英镑回购35.8万股",
+          "url": "<code> www.917a7497.ixvjvk9.cn </code>",
+          "layout": "全宽",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+          "url": "<code> www.917a596.iywnjf5.cn </code>",
+          "layout": "三栏",
+          "version": "6.2",
+          "responsive": true
+        },
+        {
+          "name": "特朗普连续3天许诺5000美元分红：若共和党赢下中选 每位年轻人发钱",
+          "url": "<code> www.917a22.jdviqr2.cn </code>",
+          "layout": "全宽",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "继续停牌！新华传媒推进收购界面财联社控股权",
+          "url": "<code> www.917a69760.jhnspb7.cn </code>",
+          "layout": "双栏",
+          "version": "5.1",
+          "responsive": true
+        },
+        {
+          "name": "建设提速 宁盐高速高邮湖特大桥实现全桥贯通",
+          "url": "<code> www.917a653.jiubbg9.cn </code>",
+          "layout": "双栏",
+          "version": "3.5",
+          "responsive": true
+        },
+        {
+          "name": "天地一体跨域智算网工程启动",
+          "url": "<code> www.917a609789.jmqlrz2.cn </code>",
+          "layout": "双栏",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "专家解读全球首座翼龙博物馆：打造世界级翼龙研究与科普中心",
+          "url": "<code> www.917a77172.jpsvoj5.cn </code>",
+          "layout": "全宽",
+          "version": "6.3",
+          "responsive": true
+        },
+        {
+          "name": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+          "url": "<code> www.917a6026.jvjnzi1.cn </code>",
+          "layout": "全宽",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+          "url": "<code> www.917a050.keszka0.cn </code>",
+          "layout": "三栏",
+          "version": "7.8",
+          "responsive": true
+        },
+        {
+          "name": "河南洛阳：电缆订单赶制忙",
+          "url": "<code> www.917a73.kfpmrq1.cn </code>",
+          "layout": "全宽",
+          "version": "9.3",
+          "responsive": true
+        },
+        {
+          "name": "对冲基金在贝森特自称庄家前已经大幅削减日元空头仓位",
+          "url": "<code> www.917a68.kgpjoa5.cn </code>",
+          "layout": "三栏",
+          "version": "7.3",
+          "responsive": true
+        },
+        {
+          "name": "沙特东西输油管道遇袭 伊拉克谴责袭击并启动调查",
+          "url": "<code> www.917a616.kgqfvt9.cn </code>",
+          "layout": "三栏",
+          "version": "9.5",
+          "responsive": true
+        },
+        {
+          "name": "陕西：300余名骑手巡游嵯峨山 机车音乐嘉年华促农文旅深度融合",
+          "url": "<code> www.917a582.kjhrkr6.cn </code>",
+          "layout": "单栏",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "京津冀残疾人艺术作品展在津举行 166件作品集中亮相",
+          "url": "<code> www.917a72.knlzcs9.cn </code>",
+          "layout": "单栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "2026年中国科研类航空航天模型普及大赛（七台河站）开幕",
+          "url": "<code> www.917a122766.korvut9.cn </code>",
+          "layout": "全宽",
+          "version": "3.5",
+          "responsive": true
+        },
+        {
+          "name": "折叠屏集体“上桌”：华为秒罄、苹果入局 高端市场战火重燃",
+          "url": "<code> www.917a886594.krhltd8.cn </code>",
+          "layout": "全宽",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "绿植黄叶，罚款50——星宇股份最狠的不是裁员，是让员工互相开罚单",
+          "url": "<code> www.917a58.ktyyz66.cn </code>",
+          "layout": "单栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+          "url": "<code> www.917a45.kvilxg5.cn </code>",
+          "layout": "双栏",
+          "version": "5.9",
+          "responsive": true
+        },
+        {
+          "name": "15.83亿元！全国首单 获批",
+          "url": "<code> www.917a456936.kvjgin5.cn </code>",
+          "layout": "双栏",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+          "url": "<code> www.917a35614.kxqreb3.cn </code>",
+          "layout": "三栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "闪迪暗盘跌超3% 现报1583.055美元",
+          "url": "<code> www.917a40.kzyvb34.cn </code>",
+          "layout": "全宽",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽",
+          "url": "<code> www.917a07905.l54ws7.cn </code>",
+          "layout": "双栏",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "聚焦开放与共享 服贸会展现中国文化新表达",
+          "url": "<code> www.917a4241.llcqed7.cn </code>",
+          "layout": "三栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "京菜名片北京烤鸭美食推广季活动亮相王府井大街",
+          "url": "<code> www.917a345.lmjqdb3.cn </code>",
+          "layout": "双栏",
+          "version": "9.6",
+          "responsive": true
+        },
+        {
+          "name": "（活力中国调研行）河南遂平：农机制造企业生产忙",
+          "url": "<code> www.917a0606.lromvs0.cn </code>",
+          "layout": "单栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "十件侨选“广州礼物”亮相广州中秋侨宴",
+          "url": "<code> www.917a6357.mjvcgn9.cn </code>",
+          "layout": "三栏",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+          "url": "<code> www.917a8103.mmcrcm1.cn </code>",
+          "layout": "双栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "图灵量子首发第三代大规模芯片级可扩展光量子计算机TuringQ Gen3",
+          "url": "<code> www.917a0080.nkvfjt3.cn </code>",
+          "layout": "三栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+          "url": "<code> www.917a2322.nkzswv8.cn </code>",
+          "layout": "双栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+          "url": "<code> www.917a706445.nlzhrv7.cn </code>",
+          "layout": "全宽",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+          "url": "<code> www.917a331.nrqrst6.cn </code>",
+          "layout": "单栏",
+          "version": "2.5",
+          "responsive": true
+        },
+        {
+          "name": "伊朗据称周一公布霍尔木兹海峡临时航道协议 特朗普表示不在乎",
+          "url": "<code> www.917a06081.nxjswb0.cn </code>",
+          "layout": "双栏",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+          "url": "<code> www.917a126199.nztlbu0.cn </code>",
+          "layout": "三栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+          "url": "<code> www.917a25385.ocultt3.cn </code>",
+          "layout": "单栏",
+          "version": "1.4",
+          "responsive": true
+        },
+        {
+          "name": "据报道 Anthropic联合创始人兼首席执行官表示 必须放缓提升AI模型能力的速度",
+          "url": "<code> www.917a484.oeewfa2.cn </code>",
+          "layout": "全宽",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "《2026中国餐饮业年度报告》发布",
+          "url": "<code> www.917a56.ohfeoo8.cn </code>",
+          "layout": "单栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "云南新世纪滇池国际文化旅游会展置地有限公司原总经理石坤接受监察调查",
+          "url": "<code> www.917a27706.ojmktr9.cn </code>",
+          "layout": "单栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "一见·“大金砖合作”，何以成其大？",
+          "url": "<code> www.917a350.oknzkf1.cn </code>",
+          "layout": "单栏",
+          "version": "7.5",
+          "responsive": true
+        },
+        {
+          "name": "中国高端海工装备扬帆出海 服务共建“一带一路”国家能源开发",
+          "url": "<code> www.917a42.othvts2.cn </code>",
+          "layout": "单栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "塞尔维亚总统武契奇视察“卡拉乔尔杰领袖走廊”快速路项目",
+          "url": "<code> www.917a986745.pecvqb7.cn </code>",
+          "layout": "全宽",
+          "version": "4.7",
+          "responsive": true
+        },
+        {
+          "name": "广西隆安优品亮相深圳华强北 产销对接拓展湾区市场",
+          "url": "<code> www.917a124463.pjvdqz9.cn </code>",
+          "layout": "三栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "“铁建起重5000”大型起重船离港赴远洋施工",
+          "url": "<code> www.917a11.puvmwr7.cn </code>",
+          "layout": "单栏",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "美国政府本财年前11个月财政赤字达1.97万亿美元",
+          "url": "<code> www.917a705798.pxgfrl8.cn </code>",
+          "layout": "三栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
+          "url": "<code> www.917a094.pyyggr3.cn </code>",
+          "layout": "单栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "资本大佬陈发树拟套现超2亿元，雷电微力股价年内已跌超45%",
+          "url": "<code> www.917a244634.qbybmh5.cn </code>",
+          "layout": "单栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "陈茂波：香港与共建“一带一路”地区合作走向机制化",
+          "url": "<code> www.917a36924.qenvkz6.cn </code>",
+          "layout": "三栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "秋燥分两种，很多人都补反了，越补燥感越重！",
+          "url": "<code> www.917a25450.qeospx6.cn </code>",
+          "layout": "双栏",
+          "version": "5.9",
+          "responsive": true
+        },
+        {
+          "name": "内地餐饮企业在港竞争激烈 2026年市场持续洗牌 海底捞、凑凑折戟 巴奴前扑后继",
+          "url": "<code> www.917a7080.qhskvp9.cn </code>",
+          "layout": "全宽",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "案值巨大 美前中情局官员与检方达成临时认罪协议",
+          "url": "<code> www.917a57019.qjgjar9.cn </code>",
+          "layout": "双栏",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "<code> www.917a221669.qmywer4.cn </code>",
+          "layout": "全宽",
+          "version": "1.1",
+          "responsive": true
+        },
+        {
+          "name": "联合国就也门问题举行紧急会议 中方呼吁尽快实现停火",
+          "url": "<code> www.917a584328.qrcwzo0.cn </code>",
+          "layout": "单栏",
+          "version": "3.8",
+          "responsive": true
+        },
+        {
+          "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+          "url": "<code> www.917a788.qrloa48.cn </code>",
+          "layout": "双栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "腾讯控股于9月11日斥资1亿港元回购23.5万股",
+          "url": "<code> www.917a9258.qu5rz6.cn </code>",
+          "layout": "三栏",
+          "version": "0.3",
+          "responsive": true
+        },
+        {
+          "name": "联大通过“纠正地图”决议，意味着什么？",
+          "url": "<code> www.917a24.rmsotk9.cn </code>",
+          "layout": "三栏",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "越南VinFast 8月电动车交付量达2.02万辆 环比增长12%",
+          "url": "<code> www.917a85253.rpphww4.cn </code>",
+          "layout": "全宽",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "上海旅游节大巡游开幕 世赛主题联动花车登场",
+          "url": "<code> www.917a12638.sfnzww2.cn </code>",
+          "layout": "单栏",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "户外运动为何持续吸引年轻人？热潮更需冷思考",
+          "url": "<code> www.917a19291.sfzrmw0.cn </code>",
+          "layout": "单栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "（活力中国调研行）从煤山到金山 伏牛山网红村念好“三道经”",
+          "url": "<code> www.917a8966.shazwc2.cn </code>",
+          "layout": "全宽",
+          "version": "5.2",
+          "responsive": true
+        },
+        {
+          "name": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+          "url": "<code> www.917a617.shvdzg5.cn </code>",
+          "layout": "三栏",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "香港特区政府强烈反对外部势力污蔑抹黑法庭就“支联会”案的判刑",
+          "url": "<code> www.917a04365.sreegp7.cn </code>",
+          "layout": "三栏",
+          "version": "0.6",
+          "responsive": true
+        }
+      ]
+    }
+  ]
+}
