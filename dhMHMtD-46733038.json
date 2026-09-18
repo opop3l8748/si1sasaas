@@ -1,0 +1,1994 @@
+{
+  "policy": {
+    "name": "8月汽车销量同比降5.1%新能源及出口大增",
+    "version": "1.0",
+    "owner": "杨彦迪",
+    "generated": "2026-09-18 09:00:48"
+  },
+  "groups": [
+    {
+      "name": "访问控制",
+      "code": "access",
+      "rules": [
+        {
+          "name": "中金：通胀粘性支持加息 警惕鹰派信号",
+          "url": "<code> www.917azql.yfxcex6.cn </code>",
+          "action": "challenge",
+          "priority": 92,
+          "enabled": true
+        },
+        {
+          "name": "第27个“世界急救日”：上海关注新就业群体 望打造流动防线",
+          "url": "<code> www.917anbncl.zppxga2.cn </code>",
+          "action": "allow",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "中国田协10公里精英赛首落陕西永寿 文体旅融合激活县域发展动能",
+          "url": "<code> www.917avv.iddgeq4.cn </code>",
+          "action": "challenge",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "新华图讯丨习近平抵达新德里出席金砖国家领导人第十八次会晤",
+          "url": "<code> www.917aumadj.58v9gz.cn </code>",
+          "action": "log",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "菲华中学生交流日在马尼拉举行 近60名学子体验中华文化",
+          "url": "<code> www.917aegyrz.anbnss1.cn </code>",
+          "action": "log",
+          "priority": 3,
+          "enabled": true
+        },
+        {
+          "name": "（经济观察）平陆运河通航有望助力海南自贸港与东盟经贸往来",
+          "url": "<code> www.917and.aqgizw6.cn </code>",
+          "action": "log",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "“产能预警调控”首入汽车五年规划，产能治理要动真格了吗？",
+          "url": "<code> www.917asaphs.aqspbf7.cn </code>",
+          "action": "log",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "菲律宾客船起火事故致35人死亡、54人失联",
+          "url": "<code> www.917adqgykl.axkrio1.cn </code>",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "探访中国“两弹城”景区",
+          "url": "<code> www.917akqtnw.bqobei9.cn </code>",
+          "action": "log",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "第23届东博会“魅力之城”全数出炉",
+          "url": "<code> www.917agqz.buyye18.cn </code>",
+          "action": "challenge",
+          "priority": 94,
+          "enabled": true
+        },
+        {
+          "name": "（活力中国调研行）河南确山：“提琴之乡”赶制订单忙",
+          "url": "<code> www.917akdoc.bvxbsg9.cn </code>",
+          "action": "log",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "韩国股市放大招！正式开启夜盘，交易延长至晚上8点",
+          "url": "<code> www.917axjkosq.cbjsnq8.cn </code>",
+          "action": "challenge",
+          "priority": 63,
+          "enabled": true
+        },
+        {
+          "name": "花旗：中国铁建目标价下调至5.5港元 维持“买入”评级",
+          "url": "<code> www.917akscf.coowyx8.cn </code>",
+          "action": "log",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "私募8月业绩修复 头部梯队表现抢眼",
+          "url": "<code> www.917atofys.cqetuf5.cn </code>",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "美国官员：以色列与黎巴嫩下一轮谈判推迟至10月",
+          "url": "<code> www.917atbu.cuthiu9.cn </code>",
+          "action": "log",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "李家超：发表香港第一个五年规划时将佩戴相关主题领带与襟章",
+          "url": "<code> www.917arips.daiaar4.cn </code>",
+          "action": "log",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "公募逆周期布局提速 机构称A股变盘点或已不远",
+          "url": "<code> www.917aej.dbwtny5.cn </code>",
+          "action": "deny",
+          "priority": 79,
+          "enabled": true
+        },
+        {
+          "name": "A股和港股多个重要指数成份股调整落地",
+          "url": "<code> www.917auqtrkw.dbzopy6.cn </code>",
+          "action": "log",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "雕白粉商品报价动态（2026-09-12）",
+          "url": "<code> www.917aouasx.ddlotu6.cn </code>",
+          "action": "deny",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "英国朴茨茅斯现两阵营对峙示威",
+          "url": "<code> www.917ahrxo.deahni7.cn </code>",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "“连线粉丝”讲离奇“真事”？主播被封后起诉平台，法院判了",
+          "url": "<code> www.917arxpkm.dfsibj2.cn </code>",
+          "action": "allow",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "全国超级稻30年带动水稻单产提升",
+          "url": "<code> www.917aqhluw.dngknv0.cn </code>",
+          "action": "challenge",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "面临美日收益率上涨 贝森特陷入两线苦战",
+          "url": "<code> www.917aptckiu.driywt7.cn </code>",
+          "action": "allow",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "“炒股”回本！爆仓漫画家，苦熬18年，他做对了什么？",
+          "url": "<code> www.917age.dtomzf5.cn </code>",
+          "action": "log",
+          "priority": 20,
+          "enabled": true
+        },
+        {
+          "name": "北陆药业：公司将于2026年9月14日召开2026年第二次临时股东会",
+          "url": "<code> www.917anhh.dyzjtg9.cn </code>",
+          "action": "challenge",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官",
+          "url": "<code> www.917abq.ecbekz7.cn </code>",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "两大AI巨头同日发出“减速”信号，OpenAI明确今年不上市",
+          "url": "<code> www.917aikm.edatyb8.cn </code>",
+          "action": "challenge",
+          "priority": 84,
+          "enabled": true
+        },
+        {
+          "name": "暴雨红色预警 海南陵水发布校外培训机构停课通知",
+          "url": "<code> www.917aqic.efpwkw5.cn </code>",
+          "action": "challenge",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "“中国预防出生缺陷日”：上海以科技赋能出生缺陷防治",
+          "url": "<code> www.917acf.efyspk6.cn </code>",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "全球产业格局生变 中国企业高质量出海迎接新机遇",
+          "url": "<code> www.917acdfoj.ekqush8.cn </code>",
+          "action": "challenge",
+          "priority": 54,
+          "enabled": true
+        },
+        {
+          "name": "（长征胜利90周年）红军长征粤北纪念馆焕新迎客 红色热土吸引港澳台侨参观者",
+          "url": "<code> www.917avmhgg.emjcyu2.cn </code>",
+          "action": "challenge",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "《欢迎来龙餐馆》海外热映 高校教师“英文译制”中国故事",
+          "url": "<code> www.917ail.eujixy0.cn </code>",
+          "action": "allow",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "华为全新三折叠开售秒空！二手市场溢价数千元 优购码被倒卖",
+          "url": "<code> www.917ahcoai.eyycrx8.cn </code>",
+          "action": "deny",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "2026年黄河上中游重点水库联合排沙调度今天启动",
+          "url": "<code> www.917acbr.fbaeox6.cn </code>",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "中国将于2027年接任金砖主席国",
+          "url": "<code> www.917aiazots.fgsoze9.cn </code>",
+          "action": "deny",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "美国总统特朗普谈5000美元分红表示 说话算话",
+          "url": "<code> www.917agum.fijdko2.cn </code>",
+          "action": "deny",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "世界最大盐穴压缩空气储能项目机组启动",
+          "url": "<code> www.917alep.fkgqom7.cn </code>",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "异动拉升，“5天3板”！000823最新澄清：目前无产品供货给英伟达",
+          "url": "<code> www.917avpyv.fllmxu0.cn </code>",
+          "action": "allow",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "三一重工：首次回购股份62.39万股 交易总金额1230.87万元",
+          "url": "<code> www.917apcq.fmsfqb0.cn </code>",
+          "action": "challenge",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "银轮股份：公司无逾期对外担保、无涉及诉讼的对外担保及因担保被判决败诉而应承担损失的情形",
+          "url": "<code> www.917alttbc.fwnwqn2.cn </code>",
+          "action": "log",
+          "priority": 66,
+          "enabled": true
+        },
+        {
+          "name": "人民论坛网评 | 以青春担当回应时代召唤",
+          "url": "<code> www.917alrtwy.fxiedk7.cn </code>",
+          "action": "allow",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "2026年重庆市全国科普月主场活动举行",
+          "url": "<code> www.917ato.gabqez2.cn </code>",
+          "action": "deny",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "中国华文教育“名师巡讲”南非开讲",
+          "url": "<code> www.917axsmie.gdsjo41.cn </code>",
+          "action": "deny",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+          "url": "<code> www.917azv.gllnnl7.cn </code>",
+          "action": "challenge",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "钢铁周 | 钢铁高质量发展与管理创新论坛邀您相聚上海！",
+          "url": "<code> www.917atlpug.gllnol9.cn </code>",
+          "action": "deny",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "内蒙古呼和浩特：探秘和林格尔新区智能算力中心",
+          "url": "<code> www.917att.grgbkv6.cn </code>",
+          "action": "challenge",
+          "priority": 40,
+          "enabled": true
+        },
+        {
+          "name": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+          "url": "<code> www.917aotttym.gsfrjv2.cn </code>",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "新华图讯｜习近平会见印度总理莫迪",
+          "url": "<code> www.917aouuau.gwsuz35.cn </code>",
+          "action": "challenge",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "天安获董事会主席李成辉增持4.3万股 每股作价约3.34港元",
+          "url": "<code> www.917aagcb.hubtab9.cn </code>",
+          "action": "allow",
+          "priority": 77,
+          "enabled": true
+        },
+        {
+          "name": "多图读懂金砖力量：中国智慧助推开放包容的合作新机遇",
+          "url": "<code> www.917amlghd.hvpbvl9.cn </code>",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+          "url": "<code> www.917aiwamd.hxfhmn5.cn </code>",
+          "action": "deny",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "15.83亿元！全国首单 获批",
+          "url": "<code> www.917awmp.ihtsph2.cn </code>",
+          "action": "log",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+          "url": "<code> www.917abcilbu.inslsz3.cn </code>",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "学习新语｜习近平主席深刻阐述“金砖合作”",
+          "url": "<code> www.917avhizrf.iotwlb9.cn </code>",
+          "action": "challenge",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "广西民众扬帆逐浪 千人横渡融江",
+          "url": "<code> www.917agbq.iscjxn4.cn </code>",
+          "action": "allow",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "强生据报与阿波罗洽谈约200亿美元骨科业务交易",
+          "url": "<code> www.917axritm.iwllrz7.cn </code>",
+          "action": "allow",
+          "priority": 9,
+          "enabled": true
+        },
+        {
+          "name": "当“科漂”遇见江淮，一场关于未来的双向奔赴",
+          "url": "<code> www.917advz.ixizha6.cn </code>",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "古法杉木闸板显奇效 福建诏安大水门“土办法”挡洪护城",
+          "url": "<code> www.917apsqy.iyvgrj9.cn </code>",
+          "action": "allow",
+          "priority": 44,
+          "enabled": true
+        },
+        {
+          "name": "中国服贸向上跃升 体验经济蓬勃发展",
+          "url": "<code> www.917amq.izyuit9.cn </code>",
+          "action": "allow",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "熵旋芯智雷坤：MRAM存算一体芯片可使AI推理Token成本降低约10倍",
+          "url": "<code> www.917auroen.jehnid8.cn </code>",
+          "action": "allow",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "印尼载有至少240人的客轮失联，已派出救援人员",
+          "url": "<code> www.917ahcew.jhfewe2.cn </code>",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+          "url": "<code> www.917anxzbfg.jlflwv4.cn </code>",
+          "action": "challenge",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+          "url": "<code> www.917ahoo.jobji94.cn </code>",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "两岸资深电影人热议闽南语电影创作",
+          "url": "<code> www.917aykpi.jppnzi7.cn </code>",
+          "action": "log",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+          "url": "<code> www.917asl.kbynlt2.cn </code>",
+          "action": "log",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "美国至9月11日当周石油钻井总数450口",
+          "url": "<code> www.917aimo.kcxcfp3.cn </code>",
+          "action": "log",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "直击光博会！芯片、光引擎、设备密集上新",
+          "url": "<code> www.917acdrjls.khydil3.cn </code>",
+          "action": "challenge",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "中外学者昆明共议本土音乐传承新理论与新实践",
+          "url": "<code> www.917aiygdv.kiyeek7.cn </code>",
+          "action": "challenge",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "普京称欧洲军队入乌等于同俄开战",
+          "url": "<code> www.917anr.kmnivx7.cn </code>",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+          "url": "<code> www.917ajsjc.komeuk5.cn </code>",
+          "action": "deny",
+          "priority": 17,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "请求限制",
+      "code": "limit",
+      "rules": [
+        {
+          "name": "加拿大人工智能公司Cohere正在进行深度谈判",
+          "url": "<code> www.917awdggo.ladtgn3.cn </code>",
+          "action": "deny",
+          "priority": 33,
+          "enabled": true
+        },
+        {
+          "name": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+          "url": "<code> www.917aocgcir.lgqspa3.cn </code>",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "小狗侦探“神助攻” 涉嫌入室盗窃者露馅",
+          "url": "<code> www.917axthuln.lmxrxj8.cn </code>",
+          "action": "log",
+          "priority": 85,
+          "enabled": true
+        },
+        {
+          "name": "四川绵阳：以基层治理推动铸牢中华民族共同体意识走深走实",
+          "url": "<code> www.917atxhb.lnjtam7.cn </code>",
+          "action": "deny",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "2026广东旅博会收官 实现交易额突破8000万元",
+          "url": "<code> www.917ajs.mahzvv0.cn </code>",
+          "action": "challenge",
+          "priority": 68,
+          "enabled": true
+        },
+        {
+          "name": "伊拉克确认袭击沙特输油管道的无人机从其境内发射",
+          "url": "<code> www.917axtw.mkonxc3.cn </code>",
+          "action": "deny",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "中信证券：航运周期范式重塑 关注快递旺季价格",
+          "url": "<code> www.917aug.mkquqr3.cn </code>",
+          "action": "deny",
+          "priority": 60,
+          "enabled": true
+        },
+        {
+          "name": "能源危机骤然升级！沙特关键输油管道遇袭后预防性关闭",
+          "url": "<code> www.917abxr.mscivz2.cn </code>",
+          "action": "challenge",
+          "priority": 64,
+          "enabled": true
+        },
+        {
+          "name": "山西繁峙：884名跑者滹沱河畔竞速 体育帮扶赋能县域发展",
+          "url": "<code> www.917azrct.mvhonv4.cn </code>",
+          "action": "challenge",
+          "priority": 58,
+          "enabled": true
+        },
+        {
+          "name": "从单机突围到集群拓局 上合示范区小农机耕拓印度大市场",
+          "url": "<code> www.917avecgkg.mwfcwx0.cn </code>",
+          "action": "deny",
+          "priority": 48,
+          "enabled": true
+        },
+        {
+          "name": "罗博特科通过港交所上市聆讯",
+          "url": "<code> www.917aiykv.nbhjbl0.cn </code>",
+          "action": "challenge",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "美联储下周加息几成定局 手机资费大涨或是关键推手",
+          "url": "<code> www.917apjej.neyxuw3.cn </code>",
+          "action": "challenge",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "华友钴业旗下津巴布韦华景科技通过ISO 37301认证",
+          "url": "<code> www.917amimtn.nnaegf6.cn </code>",
+          "action": "deny",
+          "priority": 67,
+          "enabled": true
+        },
+        {
+          "name": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+          "url": "<code> www.917agq.noqdqg1.cn </code>",
+          "action": "challenge",
+          "priority": 88,
+          "enabled": true
+        },
+        {
+          "name": "第十八届湖南茶业博览会启幕 打造茶文化消费嘉年华",
+          "url": "<code> www.917aup.npxffp2.cn </code>",
+          "action": "challenge",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "美国限制油轮通过霍尔木兹海峡的防空时段",
+          "url": "<code> www.917asmqc.nqmyl03.cn </code>",
+          "action": "challenge",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "上海银行中报：利润增长缓慢，规模扩张赚的钱都去哪了？",
+          "url": "<code> www.917ava.ntmxlq0.cn </code>",
+          "action": "deny",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "中医药守正创新促发展大会在澳门举行 探索传承创新路径",
+          "url": "<code> www.917asrc.nudfux3.cn </code>",
+          "action": "log",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "海外华文媒体新化行：在千年梯田感悟中国农耕文明",
+          "url": "<code> www.917axbu.oftuai4.cn </code>",
+          "action": "log",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "硼砂(十水)商品报价动态（2026-09-12）",
+          "url": "<code> www.917abnwmh.ofvnmk3.cn </code>",
+          "action": "allow",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "全球首座翼龙博物馆在新疆哈密开馆",
+          "url": "<code> www.917amszi.olpjyc9.cn </code>",
+          "action": "challenge",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "美股反弹推动美国上季度家庭净资产大增",
+          "url": "<code> www.917ajilze.ooowys8.cn </code>",
+          "action": "allow",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+          "url": "<code> www.917abluh.ootggb7.cn </code>",
+          "action": "log",
+          "priority": 29,
+          "enabled": true
+        },
+        {
+          "name": "碳酸锂期货盘中跌近10% 锂盐企业直言“没看懂”！供需因素发生了什么变化？",
+          "url": "<code> www.917acf.outanf2.cn </code>",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "AI三大死敌罕见联手！“AI股票”周一遭暴击？",
+          "url": "<code> www.917amril.ovfyod0.cn </code>",
+          "action": "allow",
+          "priority": 54,
+          "enabled": true
+        },
+        {
+          "name": "尚品宅配：拟出售不超2%已回购股份",
+          "url": "<code> www.917actmz.owvltl3.cn </code>",
+          "action": "allow",
+          "priority": 58,
+          "enabled": true
+        },
+        {
+          "name": "星宇股份解约107名应届生并非因为上市，实际原因更恶劣",
+          "url": "<code> www.917aocvo.pduxfl5.cn </code>",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "二乙烯三胺五乙酸五钠商品报价动态（2026-09-12）",
+          "url": "<code> www.917ashu.phjewc9.cn </code>",
+          "action": "allow",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "“八十一弯”成往事：渭源养路人50载接力护坦途",
+          "url": "<code> www.917artail.pnchwz9.cn </code>",
+          "action": "deny",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "Mecka AI 即将完成由红杉领投的一轮融资 估值约5亿美元",
+          "url": "<code> www.917asd.psobfm8.cn </code>",
+          "action": "allow",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "伊朗将与相关国家讨论霍尔木兹海峡内新通道",
+          "url": "<code> www.917auh.pvmryg0.cn </code>",
+          "action": "log",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "细分行业重挫，化工板块深度回调！估值仍处低位，机构高呼板块或进入击球区！",
+          "url": "<code> www.917amobt.pzxzlj1.cn </code>",
+          "action": "deny",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "港股IPO：深圳市海柔创新智能科技集团股份有限公司递表港交所",
+          "url": "<code> www.917agpe.qhhtnm7.cn </code>",
+          "action": "allow",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "中信建投：加息“靴子”将落地 A股或迎反攻行情",
+          "url": "<code> www.917anny.qmbjjb8.cn </code>",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "通胀时代怎么办？痴迷AI的华尔街坚定不移",
+          "url": "<code> www.917aqcxg.qmyvlq2.cn </code>",
+          "action": "deny",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "纳斯达克中国金龙指数收涨0.4%",
+          "url": "<code> www.917auut.qrhnru6.cn </code>",
+          "action": "log",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "液体尿素商品报价动态（2026-09-13）",
+          "url": "<code> www.917ayaey.qunuqk1.cn </code>",
+          "action": "challenge",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "“产能预警调控”首入汽车五年规划 产能治理要动真格了吗？",
+          "url": "<code> www.917ask.qurcpm6.cn </code>",
+          "action": "deny",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "美国第二季度家庭净资产创纪录环比增加12.803万亿美元",
+          "url": "<code> www.917ajtxebf.qxghln7.cn </code>",
+          "action": "challenge",
+          "priority": 13,
+          "enabled": true
+        },
+        {
+          "name": "房利美股价涨5.4%",
+          "url": "<code> www.917afxf.ra4s1r.cn </code>",
+          "action": "challenge",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "20%涨停效应显现？公募调研医药挖出这三家双创标的",
+          "url": "<code> www.917ailwsqs.rgehek7.cn </code>",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "阿尔特曼称OpenAI不会在2026年上市",
+          "url": "<code> www.917agtyd.rgydyt1.cn </code>",
+          "action": "deny",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "沙特称该国输油管道遭袭致人员受伤和设施受损",
+          "url": "<code> www.917akav.rionrx5.cn </code>",
+          "action": "allow",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+          "url": "<code> www.917apgau.rjhxyc2.cn </code>",
+          "action": "log",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "热搜！iPhone Duo预售订单大幅溢价成交 预约购买者已近百万",
+          "url": "<code> www.917azl.rqkndi6.cn </code>",
+          "action": "deny",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "人形机器人，降价潮来了",
+          "url": "<code> www.917allwr.rqzydt5.cn </code>",
+          "action": "deny",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "2026年全国露营大会暨第三届中国公路自行车公开赛（湖北随县站）收官",
+          "url": "<code> www.917aodqjhg.rtixzr6.cn </code>",
+          "action": "allow",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "产学研协同赋能西北城市更新 第十一届西安城市更新大会举行",
+          "url": "<code> www.917axokxvq.scjuwk8.cn </code>",
+          "action": "allow",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "新一轮找矿突破战略行动成效显著 我国14种矿产储量居世界第一位",
+          "url": "<code> www.917awhtwr.sffocf8.cn </code>",
+          "action": "log",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔",
+          "url": "<code> www.917aqhzy.sixufh2.cn </code>",
+          "action": "log",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "月之暗面：网传关于创始人及员工的信息系恶意造谣 已报案",
+          "url": "<code> www.917ahmyk.sjobu52.cn </code>",
+          "action": "deny",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "VinFast：创始人长子将出任全球首席执行官",
+          "url": "<code> www.917aczmnbm.tgjkat9.cn </code>",
+          "action": "deny",
+          "priority": 64,
+          "enabled": true
+        },
+        {
+          "name": "花旗：青岛啤酒股份目标价下调至68.55港元 维持“买入”评级",
+          "url": "<code> www.917aecmuw.ucnqld9.cn </code>",
+          "action": "log",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "胡塞武装称除沙特外其余国家船只红海航行安全",
+          "url": "<code> www.917alotyn.uelgxr1.cn </code>",
+          "action": "deny",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "（活力中国）生态打底产业生金 河南禹州山村焕发新活力",
+          "url": "<code> www.917adpyf.ul57sc.cn </code>",
+          "action": "challenge",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
+          "url": "<code> www.917axgj.urclcj5.cn </code>",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "美众议院议长约翰逊称 特朗普的5000美元支票计划需要国会批准",
+          "url": "<code> www.917arsdvy.uxlpqe5.cn </code>",
+          "action": "allow",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "蒸馏之争 争的是智能时代的发展权｜专家热评",
+          "url": "<code> www.917adl.uyvdaf6.cn </code>",
+          "action": "deny",
+          "priority": 9,
+          "enabled": true
+        },
+        {
+          "name": "英国议会否决“安乐死”合法化法案",
+          "url": "<code> www.917awkueub.uzbhnt7.cn </code>",
+          "action": "challenge",
+          "priority": 17,
+          "enabled": true
+        },
+        {
+          "name": "东西问丨鲁本·唐·温苏埃塔：中拉文明何以丰富全球人权普遍性？",
+          "url": "<code> www.917acqov.vbafmr4.cn </code>",
+          "action": "challenge",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "辞去两家上市药企董事长职务 “太太口服液”创始人朱保国退休",
+          "url": "<code> www.917anudqz.vcmno71.cn </code>",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "波音向工程师工会提交最终方案：包含即刻10%加薪 每年保底薪资涨幅不低于4%",
+          "url": "<code> www.917adyzwhc.vegmrx1.cn </code>",
+          "action": "deny",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "印度在市场强烈反对后拟全面改革股票收盘竞价机制",
+          "url": "<code> www.917arivc.vhvzgg4.cn </code>",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "粉末醋酸钠商品报价动态（2026-09-12）",
+          "url": "<code> www.917astfbck.vjjitm1.cn </code>",
+          "action": "deny",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "华为Mate XT 2非凡大师全渠道开售",
+          "url": "<code> www.917aygf.vmoxyq4.cn </code>",
+          "action": "challenge",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "视频|国泰基金某指基拟发行 2基金经理共12产品回报亏逾两成",
+          "url": "<code> www.917arpo.vpzsib4.cn </code>",
+          "action": "allow",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "雅戈尔：每股派现0.20元，股权登记日为9月17日",
+          "url": "<code> www.917axjomz.vrkqes6.cn </code>",
+          "action": "challenge",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "南海热带低压趋向越南中部沿海 海南有较强风雨天气",
+          "url": "<code> www.917arin.vrxdho3.cn </code>",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "公募打新燧原科技浮盈丰厚",
+          "url": "<code> www.917aew.vuzdck8.cn </code>",
+          "action": "allow",
+          "priority": 29,
+          "enabled": true
+        },
+        {
+          "name": "特朗普重申伊朗战事将在中期选举后结束",
+          "url": "<code> www.917aaftwk.vvvfku8.cn </code>",
+          "action": "challenge",
+          "priority": 55,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "内容过滤",
+      "code": "filter",
+      "rules": [
+        {
+          "name": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+          "url": "<code> www.917alqp.wcyhgg4.cn </code>",
+          "action": "log",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "支付宝安全中心就“网上流传所谓App截图”发布风险提醒",
+          "url": "<code> www.917avtwtfd.wj162b.cn </code>",
+          "action": "log",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+          "url": "<code> www.917akeshqh.wlztjq9.cn </code>",
+          "action": "allow",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "宁夏兴庆：沉浸式民族团结活动点亮商圈烟火同心景",
+          "url": "<code> www.917atkikl.wolcrk1.cn </code>",
+          "action": "log",
+          "priority": 27,
+          "enabled": true
+        },
+        {
+          "name": "菲律宾客船起火事故已致76人死亡",
+          "url": "<code> www.917ajmv.wpmhdh1.cn </code>",
+          "action": "deny",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "拾光纪·“植”此青绿！习近平等金砖国家领导人共同植树",
+          "url": "<code> www.917aov.wpxlek3.cn </code>",
+          "action": "deny",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+          "url": "<code> www.917amgqsnk.wvdtea9.cn </code>",
+          "action": "challenge",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "周末利好来了！事关万亿赛道！我国词元需求呈现爆发式增长",
+          "url": "<code> www.917ajw.xeeaet7.cn </code>",
+          "action": "allow",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "小七龄童在故乡浙江绍兴离世 享年84岁",
+          "url": "<code> www.917aru.xnlag53.cn </code>",
+          "action": "allow",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "代价沉重，为省几百万，星宇赴港上市果然遇阻，后悔也来不及了，给制造业敲响警钟",
+          "url": "<code> www.917azslffe.xqjfww4.cn </code>",
+          "action": "challenge",
+          "priority": 23,
+          "enabled": true
+        },
+        {
+          "name": "【艺评】乐坛新人去哪儿了？",
+          "url": "<code> www.917agf.xruizu9.cn </code>",
+          "action": "allow",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+          "url": "<code> www.917ayppw.xrwbfy7.cn </code>",
+          "action": "deny",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体",
+          "url": "<code> www.917akgoxyq.xvljqx7.cn </code>",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "厦门大学政治学科创建百年：聚力构建中国政治学自主知识体系",
+          "url": "<code> www.917atltzz.ybpijx8.cn </code>",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "青海省公布24年生态数据：生态系统服务价值超3.2万亿",
+          "url": "<code> www.917afszpv.ygilrk7.cn </code>",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+          "url": "<code> www.917aumye.yidgus0.cn </code>",
+          "action": "deny",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "波音向工程师工会提交最终提案 包含10%加薪",
+          "url": "<code> www.917aznp.yjrfbw9.cn </code>",
+          "action": "log",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "习近平：金砖国家要坚定站在历史正确一边 勇做时代先锋",
+          "url": "<code> www.917axaot.ylowyz9.cn </code>",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
+          "url": "<code> www.917ateuozd.yngljr2.cn </code>",
+          "action": "allow",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+          "url": "<code> www.917agabiyl.ynxxzt5.cn </code>",
+          "action": "allow",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "据美国商品期货交易委员会（CFTC） 截至2026年9月8日当周 股票基金经理削减标普500 CME净多头头寸19,683份合约",
+          "url": "<code> www.917ahn.ywfqiy1.cn </code>",
+          "action": "deny",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+          "url": "<code> www.917atcywyp.yzxzti4.cn </code>",
+          "action": "challenge",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "江化微：与上海化工研究院签署战略合作框架协议",
+          "url": "<code> www.917adyleg.zbxdaa6.cn </code>",
+          "action": "log",
+          "priority": 92,
+          "enabled": true
+        },
+        {
+          "name": "新书在沪首发 带读者看见文艺复兴时期的书籍艺术",
+          "url": "<code> www.917abfvve.zdrcpl7.cn </code>",
+          "action": "challenge",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "江苏扬州百名学子着汉服巡游古城：在青砖黛瓦间对话历史",
+          "url": "<code> www.917aqric.zgtcta4.cn </code>",
+          "action": "log",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "梅洛尼预计意大利今年经济增长1%，与欧元区增速持平",
+          "url": "<code> www.917avnf.zpflt56.cn </code>",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "为构建人类命运共同体贡献“大金砖”力量",
+          "url": "<code> www.917aevmq.zqemz54.cn </code>",
+          "action": "deny",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+          "url": "<code> www.917assle.zutocq7.cn </code>",
+          "action": "log",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+          "url": "<code> www.917anhq.zwlwwz2.cn </code>",
+          "action": "challenge",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "杂技剧《美好生活》在北京上演",
+          "url": "<code> www.917atkz.dz413.org.cn </code>",
+          "action": "challenge",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
+          "url": "<code> www.917apif.dz083.org.cn </code>",
+          "action": "allow",
+          "priority": 94,
+          "enabled": true
+        },
+        {
+          "name": "百家号App将更名“百度直播伴侣”",
+          "url": "<code> www.917acupet.dz804.org.cn </code>",
+          "action": "log",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+          "url": "<code> www.917azfwo.dz873.org.cn </code>",
+          "action": "log",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "巴黎国际空间峰会举行 致力于加强航天合作",
+          "url": "<code> www.917amc.w0fz.org.cn </code>",
+          "action": "log",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "“超级央行周”来了 下周美日英集体议息：美联储加息概率飙至90% 日本时隔3个月或再加息",
+          "url": "<code> www.917aybzkfr.pkdz88.org.cn </code>",
+          "action": "log",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "2026年攀岩世界杯贵阳站开赛 邓丽娟为中国队拿下首金",
+          "url": "<code> www.917alvdsk.pkdz60.org.cn </code>",
+          "action": "challenge",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "标普预计2027年沙特石油产量将上升 但产量仍将远低于其报告的最高可行产能1230万桶/日",
+          "url": "<code> www.917aobhx.pkdz16.org.cn </code>",
+          "action": "log",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "知名主持人敬一丹去世",
+          "url": "<code> www.917arqxy.pkdz14.org.cn </code>",
+          "action": "challenge",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "9月14日，年内发行价最低的新股来了",
+          "url": "<code> www.917arz.hhml08.org.cn </code>",
+          "action": "deny",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "陈茂波：香港与共建“一带一路”地区合作走向机制化",
+          "url": "<code> www.917air.hhml17.org.cn </code>",
+          "action": "deny",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+          "url": "<code> www.917afj.hhml81.org.cn </code>",
+          "action": "deny",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "2026乌鲁木齐马拉松鸣枪开跑",
+          "url": "<code> www.917asgk.hpkj.org.cn </code>",
+          "action": "allow",
+          "priority": 85,
+          "enabled": true
+        },
+        {
+          "name": "据报道 Anthropic联合创始人兼首席执行官表示 必须放缓提升AI模型能力的速度",
+          "url": "<code> www.917ahdy.hpkn.org.cn </code>",
+          "action": "log",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+          "url": "<code> www.917awq.pkhh32.org.cn </code>",
+          "action": "allow",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "<code> www.917arxslml.pkhh39.org.cn </code>",
+          "action": "log",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "恒指期货夜盘收跌0.05%",
+          "url": "<code> www.917avl.pkhh22.org.cn </code>",
+          "action": "log",
+          "priority": 27,
+          "enabled": true
+        },
+        {
+          "name": "国务院国资委：统筹用好国内国际两个市场 优化海外投资布局",
+          "url": "<code> www.917aarnd.kxvfkyq.cn </code>",
+          "action": "log",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "沪市公司密集增持回购夯实A股内在稳定性基础",
+          "url": "<code> www.917apgqk.qliidmh.cn </code>",
+          "action": "log",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "全球航标业者浙江温州感触古今“中外交流”",
+          "url": "<code> www.917aztegb.llayhb.cn </code>",
+          "action": "challenge",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "沙特关键输油管线遭袭 霍尔木兹海峡重要替代通道再受打击",
+          "url": "<code> www.917azztem.uogymdm.cn </code>",
+          "action": "allow",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+          "url": "<code> www.917awb.kvqrqml.cn </code>",
+          "action": "challenge",
+          "priority": 42,
+          "enabled": true
+        },
+        {
+          "name": "“不做打工人”！车企大动作：降低“含宁量”，“宁王”慌不慌？",
+          "url": "<code> www.917ajfyus.jvhtljk.cn </code>",
+          "action": "challenge",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "紧邻首批疏解高校 探访雄安新区学府城项目",
+          "url": "<code> www.917ayow.exjkbtc.cn </code>",
+          "action": "allow",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "603258，上半年净利润亏损5877万元！4920万元收购标的盈利不足50万元",
+          "url": "<code> www.917alpam.jslidko.cn </code>",
+          "action": "deny",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "创远信科重组过会 北交所公司并购步入常态化",
+          "url": "<code> www.917ajjbl.dbaudpp.cn </code>",
+          "action": "allow",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "西安建筑科技大学办学130年并校70周年高质量发展大会举行",
+          "url": "<code> www.917aiej.amycfwl.cn </code>",
+          "action": "challenge",
+          "priority": 99,
+          "enabled": true
+        },
+        {
+          "name": "习近平抵达新德里，出席金砖国家领导人第十八次会晤",
+          "url": "<code> www.917atwgyq.48a45c.cn </code>",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "国缘2026“挥拍中国”羽毛球公开赛长三角赛区-扬州站开赛",
+          "url": "<code> www.917aikrqdk.88r76m.cn </code>",
+          "action": "log",
+          "priority": 81,
+          "enabled": true
+        },
+        {
+          "name": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文）",
+          "url": "<code> www.917arblfwv.fitac25.cn </code>",
+          "action": "challenge",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "霍尔木兹海峡，大消息",
+          "url": "<code> www.917adrvy.bjtbe68.cn </code>",
+          "action": "challenge",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
+          "url": "<code> www.917aqnofdm.bhwyw15.cn </code>",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "布局传奇IP源头，恺英网络拟间接参股娱美德打通版权端协同",
+          "url": "<code> www.917acnamcp.lyjig82.cn </code>",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "大宗商品综述：油价回落 而中东风险阴云不散 铜价企稳 金价涨",
+          "url": "<code> www.917alwoo.crspg45.cn </code>",
+          "action": "deny",
+          "priority": 40,
+          "enabled": true
+        },
+        {
+          "name": "中华鬣羚再现广西花坪国家级自然保护区",
+          "url": "<code> www.917afv.qekwq15.cn </code>",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "AI基建太烧钱！甲骨文新增7亿美元重组预算 用于裁员补偿",
+          "url": "<code> www.917aqepqkr.ixbvr79.cn </code>",
+          "action": "log",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "我国词元需求呈现爆发式增长 预计2026年消耗量将达到10亿亿",
+          "url": "<code> www.917aejuium.fpmyx16.cn </code>",
+          "action": "deny",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "李强同志任辽宁省委常委、大连市委书记 姚华明同志任大连市委副书记",
+          "url": "<code> www.917ausr.yqrzj15.cn </code>",
+          "action": "allow",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉被查",
+          "url": "<code> www.917aqzkkpl.tyzgx06.cn </code>",
+          "action": "log",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "2026年服贸会在北京闭幕 达成1200余项成果",
+          "url": "<code> www.917apldy.yfnlt05.cn </code>",
+          "action": "log",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "美国债市：国债涨跌不一 收益率曲线走平 通胀报告支持美联储加息",
+          "url": "<code> www.917acfo.nulim05.cn </code>",
+          "action": "challenge",
+          "priority": 59,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "日志审计",
+      "code": "audit",
+      "rules": [
+        {
+          "name": "反渗透絮凝剂商品报价动态（2026-09-12）",
+          "url": "<code> www.917ahinbr.eulcw82.cn </code>",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "惠誉维持意大利“BBB+”评级 展望稳定",
+          "url": "<code> www.917amini.kahxy01.cn </code>",
+          "action": "deny",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "马斯克抨击纪录片《马斯克》导演",
+          "url": "<code> www.917azbddr.oaijc74.cn </code>",
+          "action": "deny",
+          "priority": 84,
+          "enabled": true
+        },
+        {
+          "name": "海南全省消防救援队伍进入二级响应 全力应对强降雨",
+          "url": "<code> www.917asalu.lrbqy26.cn </code>",
+          "action": "deny",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "广西首个“用机器人造机器人”工厂投产",
+          "url": "<code> www.917asx.itura92.cn </code>",
+          "action": "challenge",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "法国一载客列车脱轨 约20人受伤",
+          "url": "<code> www.917avxma.ztmai87.cn </code>",
+          "action": "allow",
+          "priority": 79,
+          "enabled": true
+        },
+        {
+          "name": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
+          "url": "<code> www.917agcvk.nnpal27.cn </code>",
+          "action": "deny",
+          "priority": 3,
+          "enabled": true
+        },
+        {
+          "name": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+          "url": "<code> www.917ahnrk.qrsnd73.cn </code>",
+          "action": "allow",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "印尼客轮失联事故已致6死 仍有上百人失踪",
+          "url": "<code> www.917atqat.ttcjq19.cn </code>",
+          "action": "deny",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+          "url": "<code> www.917abvg.fhaww95.cn </code>",
+          "action": "log",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "千年古城藏烟火 百味人间暖椒陵",
+          "url": "<code> www.917aswpe.gvcgn70.cn </code>",
+          "action": "deny",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "食用小苏打商品报价动态（2026-09-13）",
+          "url": "<code> www.917abky.ulujl41.cn </code>",
+          "action": "log",
+          "priority": 60,
+          "enabled": true
+        },
+        {
+          "name": "2026总部经济大会暨（第六届）楼宇经济与城市高质量发展论坛在京举办",
+          "url": "<code> www.917aycebf.wxtaj37.cn </code>",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "东西问丨徐飞彪：20年再出发，“大金砖”如何照亮全球南方？",
+          "url": "<code> www.917aeg.pcegz56.cn </code>",
+          "action": "log",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "2026年服贸会迎公众开放日",
+          "url": "<code> www.917afpabho.relkv04.cn </code>",
+          "action": "log",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "周六你需要知道的隔夜全球要闻：交易员预计下周美联储加息概率约为90%；伊朗称14日将在阿曼讨论霍尔木兹海峡商运航线；国际原油下跌",
+          "url": "<code> www.917azpcz.ajpk3107.cn </code>",
+          "action": "challenge",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "银轮股份：为多家子公司提供融资担保",
+          "url": "<code> www.917ahivwu.cizlvc1.cn </code>",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+          "url": "<code> www.917anw.17d9k6.cn </code>",
+          "action": "allow",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "斜跃智能完成数亿元天使+轮融资",
+          "url": "<code> www.917axlps.abmlge3.cn </code>",
+          "action": "challenge",
+          "priority": 35,
+          "enabled": true
+        },
+        {
+          "name": "郑永年：AI是“技术利维坦” 人类必须掌握方向盘",
+          "url": "<code> www.917akiba.jdrkuz0.cn </code>",
+          "action": "allow",
+          "priority": 76,
+          "enabled": true
+        },
+        {
+          "name": "加拿大称与美国尚无贸易谈判安排",
+          "url": "<code> www.917arwu.hmgelm4.cn </code>",
+          "action": "allow",
+          "priority": 20,
+          "enabled": true
+        },
+        {
+          "name": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+          "url": "<code> www.917ahfllf.dzpk7792.cn </code>",
+          "action": "deny",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "给工厂装上“AI节能大脑” 浙江宁波以AI赋能制造业绿色发展",
+          "url": "<code> www.917ajtyec.dzpk4212.cn </code>",
+          "action": "allow",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "手腕勒出“白圈”、皮肤粗糙……小心“戴”出来的皮炎！",
+          "url": "<code> www.917ajdgv.dzpk9680.cn </code>",
+          "action": "log",
+          "priority": 43,
+          "enabled": true
+        },
+        {
+          "name": "下一个中际旭创！业绩狂飙，产品极紧缺，确定性受益的AI基建龙头",
+          "url": "<code> www.917aebe.dzpk0768.cn </code>",
+          "action": "log",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "东西问丨“大金砖”力量，力从何来，力道几何？",
+          "url": "<code> www.917aqsqjo.oifvhq2.cn </code>",
+          "action": "deny",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "招商南油：公司将于2026年9月29日召开2026年第二次临时股东会",
+          "url": "<code> www.917auect.pqaqfs1.cn </code>",
+          "action": "allow",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "8月超八成私募机构资产管理实现正收益",
+          "url": "<code> www.917aeefs.lkvldi9.cn </code>",
+          "action": "allow",
+          "priority": 97,
+          "enabled": true
+        },
+        {
+          "name": "丹山碧水遇轰鸣 户外机车嘉年华燃动江西龙虎山",
+          "url": "<code> www.917awujtqm.jdpssb2.cn </code>",
+          "action": "deny",
+          "priority": 33,
+          "enabled": true
+        },
+        {
+          "name": "视频|IPO前夕受试者死亡、高管爆粗口，易慕峰港股18A再递表，8月招股书悄悄删掉“安全性良好”",
+          "url": "<code> www.917ahtxwjg.dioxyk7.cn </code>",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "习言道｜“强权即公理”的逻辑行不通、早就应该摒弃",
+          "url": "<code> www.917abaxbq.geektui.cn </code>",
+          "action": "log",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "厄瓜多尔发生交通事故 已致1死11伤",
+          "url": "<code> www.917aiy.fnblzq3.cn </code>",
+          "action": "allow",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "日本内阁宣传室相关预算增至10倍遭质疑",
+          "url": "<code> www.917adxqh.dlynqp5.cn </code>",
+          "action": "log",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽",
+          "url": "<code> www.917akckl.8521dz.cn </code>",
+          "action": "challenge",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "三家具身智能头部企业被同行举报？涉及企业回应",
+          "url": "<code> www.917amvomqe.7937dz.cn </code>",
+          "action": "deny",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "AI拉动覆铜板需求 上市公司加速高端产能布局",
+          "url": "<code> www.917adk.0187dz.cn </code>",
+          "action": "allow",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "多学科学者在沪研讨孙中山思想当代价值",
+          "url": "<code> www.917afvb.izxkib9.cn </code>",
+          "action": "allow",
+          "priority": 97,
+          "enabled": true
+        },
+        {
+          "name": "多国驻华使节走进江苏 共话城市发展互鉴",
+          "url": "<code> www.917apkmlyh.zegqdl8.cn </code>",
+          "action": "log",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "一AI对冲基金遭遇巨亏 摩根大通终止借贷合作",
+          "url": "<code> www.917acz.wnzbrb4.cn </code>",
+          "action": "log",
+          "priority": 50,
+          "enabled": true
+        },
+        {
+          "name": "天下为公 翰墨同心：纪念孙中山先生诞辰160周年两岸书画家笔会在京举行",
+          "url": "<code> www.917abba.uwyud15.cn </code>",
+          "action": "challenge",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "利比亚否认境内基地被乌克兰用于发射无人机",
+          "url": "<code> www.917ajsyt.wsmbe24.cn </code>",
+          "action": "log",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "据报道 美国商务部长卢特尼克表示美国可尝试“赚取”资金用于发放5000美元支票 不会依赖税收资金",
+          "url": "<code> www.917alhlg.cahvb43.cn </code>",
+          "action": "challenge",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "全球能源格局重构、竞争规则换剧本，中企出海该怎么接招？",
+          "url": "<code> www.917aglq.mxlkg83.cn </code>",
+          "action": "deny",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "习近平：中方愿同金砖成员一道 为实现中东海湾地区和平安宁发挥应有作用",
+          "url": "<code> www.917askffag.enkdl24.cn </code>",
+          "action": "challenge",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹",
+          "url": "<code> www.917auvp.riumv20.cn </code>",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "机构力挺光模块 龙头强势涨停！13只绩优潜力股曝光",
+          "url": "<code> www.917ajh.xcvasn2.cn </code>",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "欧洲央行高级官员：高油价可能迫使央行进一步加息",
+          "url": "<code> www.917aoq.enuxxq1.cn </code>",
+          "action": "allow",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+          "url": "<code> www.917ajk.vykqxl9.cn </code>",
+          "action": "deny",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "2026 Inclusion·外滩大会闭幕 50余项技术、产品和应用首发首展",
+          "url": "<code> www.917aqzt.bomxdp2.cn </code>",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "国家防总针对海南启动防汛四级应急响应",
+          "url": "<code> www.917atealex.ljchun7.cn </code>",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "新华图讯丨习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "<code> www.917ariumh.azglvj8.cn </code>",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "OPPO沈嘉谈6G：智能体将成网络主力用户 速率不再是最强标签",
+          "url": "<code> www.917anwz.gzfatn6.cn </code>",
+          "action": "allow",
+          "priority": 17,
+          "enabled": true
+        },
+        {
+          "name": "刚果（金）埃博拉疫情累计确诊病例超6900例",
+          "url": "<code> www.917awlnjfe.arblpk0.cn </code>",
+          "action": "allow",
+          "priority": 67,
+          "enabled": true
+        },
+        {
+          "name": "Anthropic联合创始人兼首席执行官：必须放慢提升AI模型能力的速度",
+          "url": "<code> www.917amux.jxwwjq0.cn </code>",
+          "action": "challenge",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "媒体记者关注金砖国家领导人第十八次会晤",
+          "url": "<code> www.917acsj.pjltsl2.cn </code>",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "欧洲央行加息25基点符合预期，预计10月或再加息",
+          "url": "<code> www.917abnvy.rciprr8.cn </code>",
+          "action": "deny",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+          "url": "<code> www.917axm.v5n8wd.cn </code>",
+          "action": "allow",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+          "url": "<code> www.917appfucs.2i6e5p.cn </code>",
+          "action": "deny",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "（活力中国调研行）河南安阳：游客走进殷墟博物馆感受商文明",
+          "url": "<code> www.917awlyvax.a33i9m.cn </code>",
+          "action": "challenge",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "莫桑比克商界：外汇短缺和燃油危机制约营商环境",
+          "url": "<code> www.917agzhq.v14uvk.cn </code>",
+          "action": "deny",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "你恐慌我贪婪！这个板块正被机构疯抢 7月以来资金借道ETF狂买逾800亿元",
+          "url": "<code> www.917axyorou.947n1r.cn </code>",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
+          "url": "<code> www.917alabuq.5c982y.cn </code>",
+          "action": "deny",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "香港证监会传指导投行在遭遇监管突击搜查时应如何配合，IPO监管趋严",
+          "url": "<code> www.917ahdvs.r2s81h.cn </code>",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "9月12日美股收盘：三大指数集体上涨，油价回落，美联储下周加息押注升至87%",
+          "url": "<code> www.917afimvnr.rjq60j.cn </code>",
+          "action": "log",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "中国股市不应该大跌，勿把外部利空当借口",
+          "url": "<code> www.917ait.lntkj1.cn </code>",
+          "action": "allow",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+          "url": "<code> www.917agnhwff.2nx1lb.cn </code>",
+          "action": "challenge",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
+          "url": "<code> www.917ayiqne.rh6d3v.cn </code>",
+          "action": "log",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "深夜，全线跳水！AI芯片，重大变数！后市怎么走？最新解读来了",
+          "url": "<code> www.917act.ctic8n.cn </code>",
+          "action": "challenge",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "中国人民对外友好协会会长杨万明访问英国、挪威",
+          "url": "<code> www.917absmhtw.uudv1i.cn </code>",
+          "action": "challenge",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "最高跌30，废钢13家下跌！（9.13）",
+          "url": "<code> www.917arf.zz6vf9.cn </code>",
+          "action": "log",
+          "priority": 58,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
