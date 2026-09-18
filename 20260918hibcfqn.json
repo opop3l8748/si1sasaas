@@ -1,0 +1,2752 @@
+{
+  "member": {
+    "name": "胡塞武装夺取迈雍岛并进入哈尼什群岛，逼近曼德海峡航道",
+    "owner": "王季秀",
+    "currency": "CNY",
+    "generated": "2026-09-18 09:10:44"
+  },
+  "levels": [
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> kcjx917a.a33i9m.cn </code>",
+      "points": 8711,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> bct917a.v14uvk.cn </code>",
+      "points": 3614,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> memkok917a.947n1r.cn </code>",
+      "points": 4278,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> rtbgpc917a.5c982y.cn </code>",
+      "points": 4117,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> yastrs917a.r2s81h.cn </code>",
+      "points": 157,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> agto917a.rjq60j.cn </code>",
+      "points": 3767,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> vhgpu917a.lntkj1.cn </code>",
+      "points": 4670,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> sjhi917a.2nx1lb.cn </code>",
+      "points": 3886,
+      "discount": 0.67,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> nhg917a.rh6d3v.cn </code>",
+      "points": 5802,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> ytil917a.ctic8n.cn </code>",
+      "points": 2478,
+      "discount": 0.56,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> hhi917a.uudv1i.cn </code>",
+      "points": 6005,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> qa917a.zz6vf9.cn </code>",
+      "points": 4031,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> lts917a.fls2ok.cn </code>",
+      "points": 6069,
+      "discount": 0.77,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> jzoz917a.0z73f3.cn </code>",
+      "points": 7374,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> xwpei917a.ldri1e.cn </code>",
+      "points": 3377,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> bdoz917a.32qjbp.cn </code>",
+      "points": 4649,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> xgkr917a.x3f1dx.cn </code>",
+      "points": 9393,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> zj917a.tt8xz8.cn </code>",
+      "points": 8322,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> mv917a.d3sjl9.cn </code>",
+      "points": 8017,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> lykzr917a.wu55v2.cn </code>",
+      "points": 1281,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> ra917a.1syv8t.cn </code>",
+      "points": 4794,
+      "discount": 0.72,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> yndxb917a.k3f3vj.cn </code>",
+      "points": 1487,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> wl917a.8rag0o.cn </code>",
+      "points": 1696,
+      "discount": 0.91,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> gpv917a.t87af9.cn </code>",
+      "points": 319,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> mwc917a.3uqfij.cn </code>",
+      "points": 6771,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> mj917a.x7100w.cn </code>",
+      "points": 742,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> zx917a.j3cx9b.cn </code>",
+      "points": 1545,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> emzkg917a.wqv98g.cn </code>",
+      "points": 4825,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> coqhpj917a.iv6b0n.cn </code>",
+      "points": 8666,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> odrqv917a.2yctbi.cn </code>",
+      "points": 95,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> xi917a.14ln82.cn </code>",
+      "points": 2578,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "<code> fhybu917a.e7phmo.cn </code>",
+      "points": 5513,
+      "discount": 0.95,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> fj917a.s3ii19.cn </code>",
+      "points": 4760,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> rvvre917a.uzlgg0.cn </code>",
+      "points": 4325,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> at917a.627hl5.cn </code>",
+      "points": 9518,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> ggzwp917a.w7vl1r.cn </code>",
+      "points": 7779,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "<code> kymx917a.ub2o39.cn </code>",
+      "points": 925,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> qx917a.30a0tn.cn </code>",
+      "points": 3456,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> ijzup917a.8tvof4.cn </code>",
+      "points": 5099,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> jugyyg917a.52k1x3.cn </code>",
+      "points": 8837,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> lyc917a.n1ifoi.cn </code>",
+      "points": 8582,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> nww917a.pcy4rc.cn </code>",
+      "points": 8048,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> nktdn917a.p5fn6g.cn </code>",
+      "points": 6221,
+      "discount": 0.52,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> vogcbw917a.d4rrb9.cn </code>",
+      "points": 173,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> of917a.o4vhom.cn </code>",
+      "points": 9834,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> ox917a.xjurj7.cn </code>",
+      "points": 5040,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> pw917a.480o4r.cn </code>",
+      "points": 2422,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> ezjxw917a.5neodi.cn </code>",
+      "points": 3862,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> wkukm917a.8d6wcs.cn </code>",
+      "points": 3726,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> pb917a.z88es6.cn </code>",
+      "points": 3791,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> xhulb917a.5fx4eo.cn </code>",
+      "points": 1244,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> qvvgct917a.xuzkh8.cn </code>",
+      "points": 487,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> quk917a.9ykeu9.cn </code>",
+      "points": 5637,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> kqnq917a.2gt120.cn </code>",
+      "points": 3486,
+      "discount": 0.75,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> fzgsfn917a.rq0v2m.cn </code>",
+      "points": 2897,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> jzxmod917a.j1oixk.cn </code>",
+      "points": 1087,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> kelr917a.7ag0lw.cn </code>",
+      "points": 2016,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> rhwfjh917a.tzwj94.cn </code>",
+      "points": 3839,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> bw917a.mtivu5.cn </code>",
+      "points": 8319,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> sc917a.fjjiuu1.cn </code>",
+      "points": 6782,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> jamut917a.vetzdu9.cn </code>",
+      "points": 6173,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> wcg917a.ibrahl9.cn </code>",
+      "points": 8500,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> rshns917a.xigrer4.cn </code>",
+      "points": 4128,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> xdrj917a.vrkhcw6.cn </code>",
+      "points": 0,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> upiooi917a.wqpitd1.cn </code>",
+      "points": 1859,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> po917a.sxscvj9.cn </code>",
+      "points": 6638,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> tpa917a.lgnkcj7.cn </code>",
+      "points": 8214,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> ynpdlb917a.ljppve8.cn </code>",
+      "points": 1071,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> boao917a.qpmdub1.cn </code>",
+      "points": 390,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> hgxjk917a.fyefpp0.cn </code>",
+      "points": 3681,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> lzdec917a.shstsp1.cn </code>",
+      "points": 8099,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> srnasw917a.9brzfj.cn </code>",
+      "points": 1484,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> dgepkb917a.ougwk8.cn </code>",
+      "points": 789,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> kvs917a.98x815.cn </code>",
+      "points": 9958,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> lllod917a.v12dr0.cn </code>",
+      "points": 7359,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> rnehk917a.a6vm03.cn </code>",
+      "points": 1616,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> qhqemr917a.l5ul7z.cn </code>",
+      "points": 5574,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> figq917a.orbro33.cn </code>",
+      "points": 9064,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> zp917a.hbhqw09.cn </code>",
+      "points": 3499,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> svdk917a.tyxkn07.cn </code>",
+      "points": 7424,
+      "discount": 0.97,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> qh917a.zcgwu32.cn </code>",
+      "points": 1976,
+      "discount": 0.93,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> gyvxm917a.1m4ju0.cn </code>",
+      "points": 9319,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> gwri917a.2un559.cn </code>",
+      "points": 1736,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> tfw917a.hjiadh6.cn </code>",
+      "points": 8639,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> gtxs917a.jjenfu2.cn </code>",
+      "points": 2837,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> hjr917a.cebhvq5.cn </code>",
+      "points": 6698,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> nw917a.cefapd2.cn </code>",
+      "points": 4050,
+      "discount": 0.89,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> nqfu917a.eedcoe5.cn </code>",
+      "points": 9563,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> gtqvii917a.gtgpxd2.cn </code>",
+      "points": 1463,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> lxbtua917a.svpryo7.cn </code>",
+      "points": 889,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> fbgv917a.ebmryi6.cn </code>",
+      "points": 8019,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> rq917a.mzgaja6.cn </code>",
+      "points": 4240,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> hledrf917a.bhitds5.cn </code>",
+      "points": 9853,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> zja917a.njuysw9.cn </code>",
+      "points": 7552,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> oqzvc917a.nawwro2.cn </code>",
+      "points": 85,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> rqlpul917a.56xke0.cn </code>",
+      "points": 358,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> hhqp917a.aasxtc9.cn </code>",
+      "points": 9541,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> jxoppb917a.adjvfo1.cn </code>",
+      "points": 8143,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> ivsbmu917a.afrtdb7.cn </code>",
+      "points": 9498,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> hlqert917a.ajbjvw3.cn </code>",
+      "points": 8069,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> ghhr917a.ajwkyn1.cn </code>",
+      "points": 611,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> pnm917a.aoqynu2.cn </code>",
+      "points": 4738,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> xgkw917a.bhgvfq7.cn </code>",
+      "points": 6939,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> lme917a.bkdwkv6.cn </code>",
+      "points": 8664,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> uyf917a.brzdqt1.cn </code>",
+      "points": 5366,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "<code> qav917a.bvwzlo8.cn </code>",
+      "points": 3437,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> eiptd917a.byabtg9.cn </code>",
+      "points": 5776,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "<code> gd917a.bzkltr6.cn </code>",
+      "points": 2037,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> frpqk917a.caxpqf8.cn </code>",
+      "points": 3663,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> cqmg917a.cfwrhi8.cn </code>",
+      "points": 6451,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> mzm917a.ckoigv9.cn </code>",
+      "points": 9484,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "<code> ngq917a.clyymy5.cn </code>",
+      "points": 2101,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> echcz917a.cryefy2.cn </code>",
+      "points": 5779,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> stfik917a.cvlaci8.cn </code>",
+      "points": 2420,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> qssrk917a.czdqgl5.cn </code>",
+      "points": 4989,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> mhgyf917a.czeejh6.cn </code>",
+      "points": 8923,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> zpp917a.dewane4.cn </code>",
+      "points": 7149,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> ul917a.dgztbv5.cn </code>",
+      "points": 7356,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "<code> croy917a.dhying8.cn </code>",
+      "points": 3175,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> dn917a.dkecqp7.cn </code>",
+      "points": 3494,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> gsgoai917a.dkhxek4.cn </code>",
+      "points": 586,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> xoinbx917a.dlcysc7.cn </code>",
+      "points": 5988,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> rkx917a.dltuve4.cn </code>",
+      "points": 4523,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> nis917a.dpetbt9.cn </code>",
+      "points": 997,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "<code> miuoa917a.dweedi1.cn </code>",
+      "points": 7055,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "<code> ab917a.dwoxhe4.cn </code>",
+      "points": 8668,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> osshuo917a.dyzdzv7.cn </code>",
+      "points": 5427,
+      "discount": 0.94,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> pancj917a.ejidly5.cn </code>",
+      "points": 6926,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> mxinjk917a.elxaqt4.cn </code>",
+      "points": 9778,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> wn917a.escnma0.cn </code>",
+      "points": 5775,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "<code> ichzf917a.euuqz55.cn </code>",
+      "points": 8144,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> beihyq917a.ezeofz7.cn </code>",
+      "points": 5308,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> kkb917a.feolif8.cn </code>",
+      "points": 6365,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> rtc917a.frzxdg8.cn </code>",
+      "points": 4420,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> pbuclu917a.fwgzlr8.cn </code>",
+      "points": 8406,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> ogbrtp917a.gjdpox0.cn </code>",
+      "points": 8113,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "<code> ydcmdx917a.gnuclh0.cn </code>",
+      "points": 4283,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> hrx917a.gqozmv7.cn </code>",
+      "points": 2769,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> ev917a.grhttm2.cn </code>",
+      "points": 7444,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> han917a.gsymkx2.cn </code>",
+      "points": 5413,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> db917a.gygdah8.cn </code>",
+      "points": 9695,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> as917a.hcoizp5.cn </code>",
+      "points": 5257,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> paisc917a.hdwnlf7.cn </code>",
+      "points": 6876,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> wwani917a.hirpi77.cn </code>",
+      "points": 1309,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> hviwc917a.hmdiny9.cn </code>",
+      "points": 6522,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> gwrjp917a.hmiry66.cn </code>",
+      "points": 475,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> jjbh917a.hobdwm6.cn </code>",
+      "points": 2935,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> rdmdr917a.hqtisp4.cn </code>",
+      "points": 1409,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> jvwcxx917a.inpmrf9.cn </code>",
+      "points": 3914,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> hkzz917a.itpxgg7.cn </code>",
+      "points": 2445,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> ygjjbr917a.itqdgs8.cn </code>",
+      "points": 9569,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> cjz917a.ixttkj0.cn </code>",
+      "points": 8140,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> dktrxe917a.ixvjvk9.cn </code>",
+      "points": 1951,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> cbyycv917a.iywnjf5.cn </code>",
+      "points": 7664,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> jlmyov917a.jdviqr2.cn </code>",
+      "points": 4580,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> ek917a.jhnspb7.cn </code>",
+      "points": 2703,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "<code> ipt917a.jiubbg9.cn </code>",
+      "points": 9583,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> ntpja917a.jmqlrz2.cn </code>",
+      "points": 1617,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> symb917a.jpsvoj5.cn </code>",
+      "points": 2071,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> tu917a.jvjnzi1.cn </code>",
+      "points": 3864,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> hrxedt917a.keszka0.cn </code>",
+      "points": 6254,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> nsjo917a.kfpmrq1.cn </code>",
+      "points": 7141,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> bpe917a.kgpjoa5.cn </code>",
+      "points": 2636,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> nt917a.kgqfvt9.cn </code>",
+      "points": 2525,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> ahhn917a.kjhrkr6.cn </code>",
+      "points": 5432,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> tpgc917a.knlzcs9.cn </code>",
+      "points": 7773,
+      "discount": 0.74,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> tfwcj917a.korvut9.cn </code>",
+      "points": 2903,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "<code> ezwprd917a.krhltd8.cn </code>",
+      "points": 8434,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "<code> exxhtv917a.ktyyz66.cn </code>",
+      "points": 8004,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> mzlcm917a.kvilxg5.cn </code>",
+      "points": 9396,
+      "discount": 0.53,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> buzcfz917a.kvjgin5.cn </code>",
+      "points": 5699,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> uhxpi917a.kxqreb3.cn </code>",
+      "points": 3836,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> vpjp917a.kzyvb34.cn </code>",
+      "points": 9027,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> dsmymg917a.l54ws7.cn </code>",
+      "points": 1190,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> rit917a.llcqed7.cn </code>",
+      "points": 9869,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> vyo917a.lmjqdb3.cn </code>",
+      "points": 7392,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> dnvd917a.lromvs0.cn </code>",
+      "points": 2576,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> nfdc917a.mjvcgn9.cn </code>",
+      "points": 7708,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> vwnzs917a.mmcrcm1.cn </code>",
+      "points": 1737,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "<code> fomndc917a.nkvfjt3.cn </code>",
+      "points": 1581,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> fi917a.nkzswv8.cn </code>",
+      "points": 1816,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> rnesqr917a.nlzhrv7.cn </code>",
+      "points": 1592,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> lfcwti917a.nrqrst6.cn </code>",
+      "points": 6142,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> fx917a.nxjswb0.cn </code>",
+      "points": 8268,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "<code> izglsp917a.nztlbu0.cn </code>",
+      "points": 8104,
+      "discount": 0.64,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "<code> yqt917a.ocultt3.cn </code>",
+      "points": 8513,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> dsu917a.oeewfa2.cn </code>",
+      "points": 6055,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> jdsde917a.ohfeoo8.cn </code>",
+      "points": 9028,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> hoy917a.ojmktr9.cn </code>",
+      "points": 2559,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> carm917a.oknzkf1.cn </code>",
+      "points": 3848,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> joxl917a.othvts2.cn </code>",
+      "points": 8227,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> xbw917a.pecvqb7.cn </code>",
+      "points": 7547,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> nxfey917a.pjvdqz9.cn </code>",
+      "points": 3617,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> gxjk917a.puvmwr7.cn </code>",
+      "points": 7367,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "<code> oy917a.pxgfrl8.cn </code>",
+      "points": 8758,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> hvez917a.pyyggr3.cn </code>",
+      "points": 7348,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "<code> izhk917a.qbybmh5.cn </code>",
+      "points": 8219,
+      "discount": 0.98,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "<code> jfil917a.qenvkz6.cn </code>",
+      "points": 6288,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> nwbpvi917a.qeospx6.cn </code>",
+      "points": 3346,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "<code> iypybh917a.qhskvp9.cn </code>",
+      "points": 4918,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> cge917a.qjgjar9.cn </code>",
+      "points": 4447,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "<code> evpdpa917a.qmywer4.cn </code>",
+      "points": 4192,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "<code> smdkwd917a.qrcwzo0.cn </code>",
+      "points": 9453,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> hm917a.qrloa48.cn </code>",
+      "points": 9045,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "<code> tt917a.qu5rz6.cn </code>",
+      "points": 9897,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "<code> zrxwj917a.rmsotk9.cn </code>",
+      "points": 2113,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "<code> hkl917a.rpphww4.cn </code>",
+      "points": 6352,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> yykfkx917a.sfnzww2.cn </code>",
+      "points": 4240,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "<code> go917a.sfzrmw0.cn </code>",
+      "points": 27,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> tbnwkt917a.shazwc2.cn </code>",
+      "points": 1212,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> cprqb917a.shvdzg5.cn </code>",
+      "points": 2651,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "<code> joont917a.sreegp7.cn </code>",
+      "points": 9275,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> afv917a.sv4s3n.cn </code>",
+      "points": 9863,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "<code> njo917a.symnlb8.cn </code>",
+      "points": 4174,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "<code> pegwzd917a.tiejgy6.cn </code>",
+      "points": 701,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "<code> rwy917a.tktpmw1.cn </code>",
+      "points": 4039,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "<code> khq917a.tnfyph9.cn </code>",
+      "points": 5465,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> lzg917a.twbqmn2.cn </code>",
+      "points": 3367,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "普通会员",
+      "url": "<code> nalu917a.ubwmry1.cn </code>",
+      "points": 5937,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "<code> ygccg917a.uilbgw2.cn </code>",
+      "points": 4826,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> dmgtyp917a.uoisik1.cn </code>",
+      "points": 9097,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> boq917a.upinct9.cn </code>",
+      "points": 8947,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "<code> nisykw917a.uqnray9.cn </code>",
+      "points": 1611,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> ttsm917a.uwvvsx8.cn </code>",
+      "points": 9456,
+      "discount": 0.78,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "<code> jieu917a.vanyrt5.cn </code>",
+      "points": 7670,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "<code> dos917a.vbope32.cn </code>",
+      "points": 3518,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> qrq917a.vivpmw0.cn </code>",
+      "points": 2530,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "<code> xcprh917a.vknmvk4.cn </code>",
+      "points": 783,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "<code> poe917a.vswbzt1.cn </code>",
+      "points": 606,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "<code> vylq917a.vvuxad6.cn </code>",
+      "points": 4580,
+      "discount": 0.87,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "<code> uyb917a.vwkwcg4.cn </code>",
+      "points": 4352,
+      "discount": 0.66,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "<code> btxp917a.vxakyp9.cn </code>",
+      "points": 6240,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "<code> cn917a.wesxyo7.cn </code>",
+      "points": 5665,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "<code> fov917a.wfakrx5.cn </code>",
+      "points": 9246,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "<code> yal917a.wfbubw3.cn </code>",
+      "points": 8906,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> rkrtyt917a.wfsrlf2.cn </code>",
+      "points": 3079,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "<code> fl917a.wjbjuf9.cn </code>",
+      "points": 4514,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> whak917a.wjdsyb7.cn </code>",
+      "points": 919,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "<code> tbhnhk917a.wljhrd1.cn </code>",
+      "points": 7324,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "<code> pplvi917a.wtpaa51.cn </code>",
+      "points": 4037,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "<code> vx917a.wwwfvv6.cn </code>",
+      "points": 6550,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "<code> oqi917a.wwyhxu3.cn </code>",
+      "points": 2906,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "<code> glgzzj917a.wxzhuu5.cn </code>",
+      "points": 669,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "<code> jbfux917a.xcxzyo0.cn </code>",
+      "points": 2660,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "<code> dg917a.xdnhhb5.cn </code>",
+      "points": 7420,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> yso917a.xiihtc8.cn </code>",
+      "points": 4555,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> wynjhs917a.xpnve89.cn </code>",
+      "points": 1374,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "<code> kec917a.xsctcu6.cn </code>",
+      "points": 1878,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "<code> ugff917a.xtrtvv5.cn </code>",
+      "points": 5435,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "<code> hl917a.xucfg36.cn </code>",
+      "points": 7998,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    }
+  ]
+}
